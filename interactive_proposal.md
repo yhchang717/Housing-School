@@ -45,4 +45,4 @@ I think Option A also fits the best for this visualization.
 2. Should the simulation focus on current(most recent) conditions, or would adding historical data to show past movements provide a stronger narrative?
 3. Are there recommended D3.js libraries or methods for displaying demographic data and housing prices together on a map?
 
-## [Mock-up image]()
+## [Mock-up image](https://github.com/yhchang717/Housing-School/blob/main/mockup.JPG)
