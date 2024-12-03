@@ -4,18 +4,16 @@ Yi-Huai Chang
 
 ## What is your current goal? Has it changed since the proposal?
 
-The current goal of this project is to provide an overview
+The current goal of this project is to provide an overview of housing prices and education in Chicago neighborhoods. In the proposal, I planned to visualize school districts’ housing prices along with other factors such as demographics and school performance. However, using school districts as the level of the data is hard for data collection and processing. Therefore, I decided to base the map on the offical Chicago community areas, so that the audience can clearly see the distribution for three different categories of population, graduation rate, and median sale price.
 
 ## Are there data challenges you are facing? Are you currently depending on mock data?
-There are some changes since the proposal:
-1. Data scources: Chicago data portal didn't provide much information on housing data, especially 
+
+Chicago data portal didn't provide much information on housing data, especially 
 for the sale prices in the housing market. Therefore, I found a new data source called Redfin, which is a  real estate brokerage, and they have direct access to data from local multiple listing services.
-2. The level of the data: It is hard to aggregate housing prices data to school district level if we didn't 
-have individual(property) level data. I decided to use Chicago community areas as sth sth and the audience can see the distribution for three different sth sth.
 
 There are two main challenges that I am facing right now. The first one is that some areas don't have housing price data or graduation rate data. Especially for graduation rate, since the dataset I collected is only for district schools, some schools, which may affect the distribution a lot, are not included. Thanks to Michael, he gave me advice on using the other dataset on CPS after the critique meeting, so I might look into that.
 
-I am not using a mock dataset.
+I am not using a mock data.
 
 ## Walk us through an interaction, either in words or you can record a quick 2-3 minute video.
 
