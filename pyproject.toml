@@ -1,0 +1,13 @@
+[project]
+name = "housing-school"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "geopandas>=1.0.1",
+    "geopy>=2.4.1",
+    "ipykernel>=6.29.5",
+    "pandas>=2.2.3",
+    "shapely>=2.0.6",
+]
