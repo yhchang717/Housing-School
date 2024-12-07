@@ -1,0 +1,3424 @@
+year,name,median_sale_price
+2012,Albany Park,144500.0
+2012,Andersonville,296362.5
+2012,Archer Heights,124000.0
+2012,Archer Highlands,124375.0
+2012,Armour Square,257500.0
+2012,Ashburn,106000.0
+2012,Ashburn Estates,148625.0
+2012,Auburn Gresham,44575.0
+2012,Austin,59550.0
+2012,Avalon Park,42125.0
+2012,Avondale,160500.0
+2012,Back Of The Yards,29684.25
+2012,Belmont Cragin,139275.0
+2012,Belmont Heights,154750.0
+2012,Belmont Terrace,115000.0
+2012,Beverly,225450.0
+2012,Beverly View,80199.0
+2012,Beverly Woods,114000.0
+2012,Big Oaks,205250.0
+2012,Bowmanville,280500.0
+2012,Brainerd,42917.5
+2012,Brickyard,119250.0
+2012,Bridgeport,211650.0
+2012,Brighton Park,82972.0
+2012,Bronzeville,60550.25
+2012,Bryn Mawr Highlands,25250.0
+2012,Bryn Mawr Historic District,161875.0
+2012,Brynford Park,237750.0
+2012,Bucktown,394750.0
+2012,Budlong Woods,88750.0
+2012,Buena Park,174250.0
+2012,Burnside,20500.0
+2012,Cabrini-Green,275000.0
+2012,Calumet Heights,65500.0
+2012,Canaryville,92000.0
+2012,Carl Sandburg Village,162375.0
+2012,Centerfield,129000.0
+2012,Central Chicago,321250.0
+2012,Central Station,337500.0
+2012,Chatham,50000.0
+2012,Chicago Lawn,50000.0
+2012,Chinatown,230250.0
+2012,Chrysler Village,107500.0
+2012,Clarendon Park,157500.0
+2012,Clearing,127000.0
+2012,Cottage Grove Heights,41100.25
+2012,Cragin,140000.0
+2012,Dearborn Park,337000.0
+2012,Depaul,554750.0
+2012,Douglas,71000.0
+2012,Douglas Park,32000.0
+2012,Downtown Chicago,325125.0
+2012,Dunning,150500.0
+2012,East Beverly,168625.0
+2012,East Chatham,34500.0
+2012,East Garfield Park,36100.0
+2012,East Humboldt Park,189000.0
+2012,East Pilsen,131000.0
+2012,East Ravenswood Historic District,255500.0
+2012,East Rogers Park,69700.0
+2012,East Side,51099.5
+2012,East Ukrainian Village,384750.0
+2012,Edgebrook,437250.0
+2012,Edgewater,160000.0
+2012,Edgewater Beach,97950.0
+2012,Edgewater Glen,236125.0
+2012,Edison Park,239000.0
+2012,Englewood,14975.0
+2012,Englewood Heights,73812.5
+2012,Far North Side,171250.0
+2012,Far Southeast Side,34950.0
+2012,Far Southwest Side,105000.0
+2012,Fernwood,24125.0
+2012,Fifth City,33100.0
+2012,Ford City,28250.0
+2012,Fuller Park,30000.0
+2012,Fulton Market,325275.25
+2012,Fulton River District,322950.0
+2012,Gage Park,64975.0
+2012,Galewood,117787.5
+2012,Garfield Ridge,135500.0
+2012,Gladstone Park,165000.0
+2012,Gold Coast,415625.0
+2012,Goose Island,315750.0
+2012,Graceland West,390500.0
+2012,Grand Boulevard,60000.0
+2012,Grand Crossing,25925.0
+2012,Greater Grand Crossing,36650.0
+2012,Greektown,271500.0
+2012,Groveland Park,61500.0
+2012,Hamlin Park,361375.0
+2012,Hanson Park,127500.0
+2012,Heart Of Chicago,129125.0
+2012,Heart Of Italy,129000.0
+2012,Hegewisch,76375.0
+2012,Hermosa,92750.0
+2012,Hollywood Park,140000.0
+2012,Homan Square,35000.0
+2012,Horner Park,411937.5
+2012,Humboldt Park,105500.0
+2012,Hyde Park,163500.0
+2012,Hyde Park Kenwood Historic District,174500.0
+2012,Ickes Praire,124000.0
+2012,Illinois Medical District,65000.0
+2012,Independence Park,342500.0
+2012,Indian Village,55475.0
+2012,Indian Woods,370500.0
+2012,Irving Park,179625.0
+2012,Irving Woods,161250.0
+2012,Jackson Park Highlands,251250.0
+2012,Jefferson Park,189250.0
+2012,Jeffrey Manor,22140.0
+2012,K-Town,28500.0
+2012,Kelvyn Park,146500.0
+2012,Kennedy Park,177000.0
+2012,Kenwood,113000.0
+2012,Kilbourn Park,140225.0
+2012,Kosciuszko Park,148700.0
+2012,Lake Meadows,73000.0
+2012,Lake View,349975.0
+2012,Lake View East,226000.0
+2012,Lathrop,447500.0
+2012,Leclaire Courts,67725.0
+2012,Lincoln Park,441750.0
+2012,Lincoln Square,287500.0
+2012,Lithuanian Downtown,232000.0
+2012,Little Cassubia,184500.0
+2012,Little Italy,205750.0
+2012,Little Vietnam,265875.0
+2012,Logan Square,230000.0
+2012,Longwood Manor,41099.5
+2012,Loop,305000.0
+2012,Lower West Side,137375.0
+2012,Loyola,72775.0
+2012,Magnificent Mile,536625.0
+2012,Magnolia Glen,142500.0
+2012,Margate Park,99250.0
+2012,Marquette Park,49625.0
+2012,Marshall Square,47125.0
+2012,Mary Crest,235000.0
+2012,Marynook,74475.0
+2012,Mayfair,166500.0
+2012,Mckinley Park,145500.0
+2012,Midway Park,38875.0
+2012,Montclare,143500.0
+2012,Morgan Park,87000.0
+2012,Mount Greenwood,169000.0
+2012,Mount Greenwood Heights,225000.0
+2012,Near East Side,436250.0
+2012,Near North Side,350000.0
+2012,Near South Side,271000.0
+2012,New City,29789.5
+2012,New City / Back Of The Yards,23750.0
+2012,New East Side,413500.0
+2012,New Roseland,32850.0
+2012,Noble Square,348425.0
+2012,North Austin,74750.0
+2012,North Center,424750.0
+2012,North Kenwood,103250.0
+2012,North Lawndale,26199.0
+2012,North Mayfair,186875.0
+2012,North Park,197299.75
+2012,North Shore,338530.0
+2012,North Side,352500.0
+2012,Northwest Side,150000.0
+2012,Nortown,48975.0
+2012,Norwood Park,215000.0
+2012,Norwood Park East,195125.0
+2012,Norwood Park West,234000.0
+2012,Oakland,184375.0
+2012,Old Hegewisch,52100.0
+2012,Old Irving Park,192000.0
+2012,Old Norwood Park,351250.0
+2012,Old Town,339125.0
+2012,Old Town Triangle,329250.0
+2012,Oriole Park,221475.0
+2012,Palmer Square,259500.0
+2012,Park Manor,50775.0
+2012,Park West,333125.0
+2012,Peterson Park,240000.0
+2012,Pill Hill,90500.0
+2012,Pill Hill / Calument Heights,65500.0
+2012,Pilsen Historic District,160000.0
+2012,Portage Park,167125.0
+2012,Prairie District,263250.0
+2012,Princeton Park,23000.0
+2012,Printer'S Row,237000.0
+2012,Pulaski Park,286500.0
+2012,Pullman,40000.0
+2012,Ranch Triangle,508250.0
+2012,Ravenswood,313500.0
+2012,Ravenswood Gardens,460000.0
+2012,Ravenswood Manor,271250.0
+2012,River North,338000.0
+2012,River West,300375.0
+2012,Riverdale,8495.0
+2012,Rogers Park,82500.0
+2012,Rosehill,175750.0
+2012,Roseland,27441.25
+2012,Rosemoor,35000.0
+2012,Schorsch Forest View,171250.0
+2012,Schorsch Village,168875.0
+2012,Scottsdale,94625.0
+2012,Sheffield,561250.0
+2012,Sheridan Park,225500.0
+2012,Sheridan Station Corridor,300875.0
+2012,Slag Valley,40300.0
+2012,Sleepy Hollow,100750.0
+2012,South Austin,32750.0
+2012,South Chicago,23600.0
+2012,South Commons,33291.25
+2012,South Deering,24625.0
+2012,South East Ravenswood,543750.0
+2012,South Edgebrook,278250.0
+2012,South Lawndale,50000.0
+2012,South Lawndale / Little Village,50000.0
+2012,South Loop,258500.0
+2012,South Old Irving Park,161000.0
+2012,South Shore,35750.0
+2012,South Side,70000.0
+2012,Southwest Side,84000.0
+2012,St. Ben'S,644625.0
+2012,Stateway Gardens,108292.0
+2012,Stony Island Park,40400.0
+2012,Streeterville,402875.0
+2012,Tally'S Corner,335000.0
+2012,The Bush,23312.5
+2012,The Chicago University,33350.0
+2012,The Gap,158538.75
+2012,The Island,90000.0
+2012,The Villa,375000.0
+2012,Tri-Taylor,97725.0
+2012,Ukrainian Village,347000.0
+2012,Union Ridge,214500.0
+2012,Uptown,196750.0
+2012,Vittum Park,112500.0
+2012,Waclawowo,195000.0
+2012,Washington Heights,41500.0
+2012,Washington Park,36200.0
+2012,West Beverly,199500.0
+2012,West Chatham,41700.0
+2012,West Chesterfield,63875.0
+2012,West Depaul,552500.0
+2012,West Elsdon,117250.0
+2012,West Englewood,14600.0
+2012,West Garfield Park,30675.0
+2012,West Humboldt Park,50000.0
+2012,West Lake View,405625.0
+2012,West Lawn,116625.0
+2012,West Morgan Park,231750.0
+2012,West Pullman,22825.0
+2012,West Ridge,70100.0
+2012,West Side,195500.0
+2012,West Town,341372.0
+2012,West Walker,147425.0
+2012,West Woodlawn,28750.0
+2012,Wicker Park,375500.0
+2012,Wildwood,357500.0
+2012,Woodlawn,37625.0
+2012,Woodlawn Ridge,43000.0
+2012,Wrightwood,252600.0
+2012,Wrigleyville,408500.0
+2013,Albany Park,189000.0
+2013,Andersonville,314000.0
+2013,Archer Heights,136750.0
+2013,Archer Highlands,133272.5
+2013,Armour Square,262750.0
+2013,Ashburn,113000.0
+2013,Ashburn Estates,161250.0
+2013,Auburn Gresham,44000.0
+2013,Austin,68500.0
+2013,Avalon Park,54000.0
+2013,Avondale,223725.0
+2013,Back Of The Yards,30708.25
+2013,Belmont Cragin,155750.0
+2013,Belmont Heights,173750.0
+2013,Belmont Terrace,171000.0
+2013,Beverly,222500.0
+2013,Beverly View,145500.0
+2013,Beverly Woods,140000.0
+2013,Big Oaks,232375.0
+2013,Bowmanville,327250.0
+2013,Brainerd,52203.25
+2013,Brickyard,135317.5
+2013,Bridgeport,237375.0
+2013,Brighton Park,86250.0
+2013,Bronzeville,87500.0
+2013,Bryn Mawr Highlands,28725.0
+2013,Bryn Mawr Historic District,150000.0
+2013,Brynford Park,228500.0
+2013,Bucktown,441225.0
+2013,Budlong Woods,109862.5
+2013,Buena Park,203750.0
+2013,Burnside,25163.0
+2013,Cabrini-Green,334000.0
+2013,Calumet Heights,62500.0
+2013,Canaryville,78000.0
+2013,Carl Sandburg Village,195000.0
+2013,Centerfield,139000.0
+2013,Central Chicago,360000.0
+2013,Central Station,450235.0
+2013,Chatham,60025.0
+2013,Chicago Lawn,56250.0
+2013,Chinatown,256500.0
+2013,Chrysler Village,59875.0
+2013,Clarendon Park,190500.0
+2013,Clearing,145750.0
+2013,Cottage Grove Heights,46855.5
+2013,Cragin,139500.0
+2013,Dearborn Park,335975.0
+2013,Depaul,563500.0
+2013,Douglas,112067.5
+2013,Douglas Park,53375.0
+2013,Downtown Chicago,370000.0
+2013,Dunning,173250.0
+2013,East Beverly,147500.0
+2013,East Chatham,22100.0
+2013,East Garfield Park,42000.0
+2013,East Humboldt Park,249500.0
+2013,East Pilsen,171625.0
+2013,East Ravenswood Historic District,291225.0
+2013,East Rogers Park,98500.0
+2013,East Side,59000.0
+2013,East Ukrainian Village,432500.0
+2013,Edgebrook,485000.0
+2013,Edgewater,167050.0
+2013,Edgewater Beach,113500.0
+2013,Edgewater Glen,260000.0
+2013,Edison Park,267500.0
+2013,Englewood,17596.5
+2013,Englewood Heights,45275.0
+2013,Far North Side,206750.0
+2013,Far Southeast Side,38975.0
+2013,Far Southwest Side,110000.0
+2013,Fernwood,27007.0
+2013,Fifth City,57250.0
+2013,Ford City,25000.0
+2013,Fuller Park,16000.0
+2013,Fulton Market,330875.0
+2013,Fulton River District,344500.0
+2013,Gage Park,68050.0
+2013,Galewood,156375.0
+2013,Garfield Ridge,158000.0
+2013,Gladstone Park,204250.0
+2013,Gold Coast,463000.0
+2013,Goose Island,377500.0
+2013,Graceland West,453500.0
+2013,Grand Boulevard,75600.0
+2013,Grand Crossing,30000.0
+2013,Greater Grand Crossing,30622.5
+2013,Greektown,290250.0
+2013,Groveland Park,77000.0
+2013,Hamlin Park,419250.0
+2013,Hanson Park,126950.0
+2013,Heart Of Chicago,135000.0
+2013,Heart Of Italy,222000.0
+2013,Hegewisch,82475.0
+2013,Hermosa,129824.5
+2013,Hollywood Park,190250.0
+2013,Homan Square,30000.0
+2013,Horner Park,388950.0
+2013,Humboldt Park,142500.0
+2013,Hyde Park,174250.0
+2013,Hyde Park Kenwood Historic District,208750.0
+2013,Ickes Praire,185000.0
+2013,Illinois Medical District,52250.0
+2013,Independence Park,294500.0
+2013,Indian Village,103750.0
+2013,Indian Woods,384500.0
+2013,Irving Park,239050.0
+2013,Irving Woods,169000.0
+2013,Jackson Park Highlands,278750.0
+2013,Jefferson Park,210000.0
+2013,Jeffrey Manor,21175.0
+2013,K-Town,32250.0
+2013,Kelvyn Park,167500.0
+2013,Kennedy Park,155000.0
+2013,Kenwood,142003.5
+2013,Kilbourn Park,164250.0
+2013,Kosciuszko Park,190250.0
+2013,Lake Meadows,440000.0
+2013,Lake View,355250.0
+2013,Lake View East,243500.0
+2013,Lathrop,538500.0
+2013,Leclaire Courts,55650.0
+2013,Lincoln Park,478000.0
+2013,Lincoln Square,299425.0
+2013,Lithuanian Downtown,198425.0
+2013,Little Cassubia,232500.0
+2013,Little Italy,267975.0
+2013,Little Vietnam,279875.0
+2013,Logan Square,276125.0
+2013,Longwood Manor,51277.5
+2013,Loop,327400.0
+2013,Lower West Side,156750.0
+2013,Loyola,93750.0
+2013,Magnificent Mile,611250.0
+2013,Magnolia Glen,264625.0
+2013,Margate Park,120000.0
+2013,Marquette Park,53625.0
+2013,Marshall Square,54137.5
+2013,Mary Crest,195000.0
+2013,Marynook,99250.0
+2013,Mayfair,200000.0
+2013,Mckinley Park,158525.25
+2013,Midway Park,45000.0
+2013,Montclare,148250.0
+2013,Morgan Park,81500.0
+2013,Mount Greenwood,167000.0
+2013,Mount Greenwood Heights,185000.0
+2013,Near East Side,440000.0
+2013,Near North Side,383875.0
+2013,Near South Side,360225.0
+2013,New City,31208.25
+2013,New City / Back Of The Yards,27000.0
+2013,New East Side,425000.0
+2013,New Roseland,28575.0
+2013,Noble Square,418750.0
+2013,North Austin,83575.0
+2013,North Center,448750.0
+2013,North Kenwood,132750.0
+2013,North Lawndale,31350.0
+2013,North Mayfair,225750.0
+2013,North Park,226000.0
+2013,North Shore,376500.0
+2013,North Side,389500.0
+2013,Northwest Side,178000.0
+2013,Nortown,111250.0
+2013,Norwood Park,244000.0
+2013,Norwood Park East,236912.5
+2013,Norwood Park West,272750.0
+2013,Oakland,122500.0
+2013,Old Hegewisch,62000.0
+2013,Old Irving Park,243625.0
+2013,Old Norwood Park,275750.0
+2013,Old Town,362375.0
+2013,Old Town Triangle,332500.0
+2013,Oriole Park,231000.0
+2013,Palmer Square,262000.0
+2013,Park Manor,36800.0
+2013,Park West,357700.0
+2013,Peterson Park,263750.0
+2013,Pill Hill,56450.0
+2013,Pill Hill / Calument Heights,61500.0
+2013,Pilsen Historic District,176250.0
+2013,Portage Park,203625.0
+2013,Prairie District,339000.0
+2013,Princeton Park,23900.0
+2013,Printer'S Row,264750.0
+2013,Pulaski Park,279375.0
+2013,Pullman,43000.0
+2013,Ranch Triangle,582250.0
+2013,Ravenswood,315000.0
+2013,Ravenswood Gardens,405000.0
+2013,Ravenswood Manor,454500.0
+2013,River North,369250.0
+2013,River West,349500.0
+2013,Riverdale,11825.0
+2013,Rogers Park,115000.0
+2013,Rosehill,211250.0
+2013,Roseland,29000.0
+2013,Rosemoor,41875.0
+2013,Schorsch Forest View,132000.0
+2013,Schorsch Village,180250.0
+2013,Scottsdale,108875.0
+2013,Sheffield,581500.0
+2013,Sheridan Park,239750.0
+2013,Sheridan Station Corridor,312500.0
+2013,Slag Valley,61000.0
+2013,Sleepy Hollow,116550.0
+2013,South Austin,37772.25
+2013,South Chicago,27975.0
+2013,South Commons,49075.0
+2013,South Deering,24750.0
+2013,South East Ravenswood,308500.0
+2013,South Edgebrook,330000.0
+2013,South Lawndale,57000.0
+2013,South Lawndale / Little Village,57000.0
+2013,South Loop,322500.0
+2013,South Old Irving Park,175000.0
+2013,South Shore,37625.0
+2013,South Side,83525.0
+2013,Southwest Side,87000.0
+2013,St. Ben'S,611000.0
+2013,Stateway Gardens,166500.0
+2013,Stony Island Park,49750.0
+2013,Streeterville,432500.0
+2013,Tally'S Corner,345000.0
+2013,The Bush,24271.75
+2013,The Chicago University,36750.0
+2013,The Gap,220000.0
+2013,The Island,135000.0
+2013,The Villa,432500.0
+2013,Tri-Taylor,145000.0
+2013,Ukrainian Village,384250.0
+2013,Union Ridge,216500.0
+2013,Uptown,224500.0
+2013,Vittum Park,139000.0
+2013,Waclawowo,232000.0
+2013,Washington Heights,48168.5
+2013,Washington Park,33825.0
+2013,West Beverly,171250.0
+2013,West Chatham,64000.0
+2013,West Chesterfield,68250.0
+2013,West Depaul,652500.0
+2013,West Elsdon,125000.0
+2013,West Englewood,14300.0
+2013,West Garfield Park,26250.0
+2013,West Humboldt Park,56450.0
+2013,West Lake View,389375.0
+2013,West Lawn,120325.0
+2013,West Morgan Park,232500.0
+2013,West Pullman,24324.75
+2013,West Ridge,96350.0
+2013,West Side,249250.0
+2013,West Town,380250.25
+2013,West Walker,232875.0
+2013,West Woodlawn,41925.0
+2013,Wicker Park,416250.0
+2013,Wildwood,381750.0
+2013,Woodlawn,48000.0
+2013,Woodlawn Ridge,42975.0
+2013,Wrightwood,269000.0
+2013,Wrigleyville,415500.0
+2014,Albany Park,216125.0
+2014,Andersonville,367000.0
+2014,Archer Heights,154250.0
+2014,Archer Highlands,144500.0
+2014,Armour Square,268250.0
+2014,Ashburn,123750.0
+2014,Ashburn Estates,161500.0
+2014,Auburn Gresham,47546.5
+2014,Austin,76268.5
+2014,Avalon Park,60750.0
+2014,Avondale,304250.0
+2014,Back Of The Yards,38750.0
+2014,Belmont Cragin,196725.0
+2014,Belmont Heights,205000.0
+2014,Belmont Terrace,220500.0
+2014,Beverly,270000.0
+2014,Beverly View,103500.0
+2014,Beverly Woods,147500.0
+2014,Big Oaks,258500.0
+2014,Bowmanville,398000.0
+2014,Brainerd,57000.0
+2014,Brickyard,172662.25
+2014,Bridgeport,257725.0
+2014,Brighton Park,120437.5
+2014,Bronzeville,113725.0
+2014,Bryn Mawr Highlands,49775.0
+2014,Bryn Mawr Historic District,162250.0
+2014,Brynford Park,265000.0
+2014,Bucktown,448750.0
+2014,Budlong Woods,152500.0
+2014,Buena Park,212875.0
+2014,Burnside,25500.0
+2014,Cabrini-Green,338250.0
+2014,Calumet Heights,81500.0
+2014,Canaryville,145250.0
+2014,Carl Sandburg Village,203000.0
+2014,Centerfield,148375.0
+2014,Central Chicago,372500.0
+2014,Central Station,457875.0
+2014,Chatham,64300.0
+2014,Chicago Lawn,69000.0
+2014,Chinatown,231650.0
+2014,Chrysler Village,94500.0
+2014,Clarendon Park,207500.0
+2014,Clearing,159500.0
+2014,Cottage Grove Heights,62250.0
+2014,Cragin,195500.0
+2014,Dearborn Park,357500.0
+2014,Depaul,637975.0
+2014,Douglas,150000.0
+2014,Douglas Park,95000.0
+2014,Downtown Chicago,379125.0
+2014,Dunning,206750.0
+2014,East Beverly,177500.0
+2014,East Chatham,35165.0
+2014,East Garfield Park,52500.0
+2014,East Humboldt Park,321625.0
+2014,East Pilsen,300500.0
+2014,East Ravenswood Historic District,325000.0
+2014,East Rogers Park,126125.0
+2014,East Side,75250.0
+2014,East Ukrainian Village,462750.0
+2014,Edgebrook,415375.0
+2014,Edgewater,191000.0
+2014,Edgewater Beach,124625.0
+2014,Edgewater Glen,416625.0
+2014,Edison Park,308500.0
+2014,Englewood,16000.0
+2014,Englewood Heights,119750.0
+2014,Far North Side,234750.0
+2014,Far Southeast Side,47699.75
+2014,Far Southwest Side,118250.0
+2014,Fernwood,24700.0
+2014,Fifth City,37950.0
+2014,Ford City,25000.0
+2014,Fuller Park,32750.0
+2014,Fulton Market,391875.0
+2014,Fulton River District,389500.0
+2014,Gage Park,87975.0
+2014,Galewood,174300.0
+2014,Garfield Ridge,172750.0
+2014,Gladstone Park,257000.0
+2014,Gold Coast,428750.0
+2014,Goose Island,404500.0
+2014,Graceland West,381375.0
+2014,Grand Boulevard,101000.0
+2014,Grand Crossing,44250.0
+2014,Greater Grand Crossing,47250.0
+2014,Greektown,311000.0
+2014,Groveland Park,70000.0
+2014,Hamlin Park,422500.0
+2014,Hanson Park,148000.0
+2014,Heart Of Chicago,150375.0
+2014,Heart Of Italy,237000.0
+2014,Hegewisch,86500.0
+2014,Hermosa,162750.0
+2014,Hollywood Park,237397.5
+2014,Homan Square,48712.5
+2014,Horner Park,533750.0
+2014,Humboldt Park,189250.0
+2014,Hyde Park,173750.0
+2014,Hyde Park Kenwood Historic District,177000.0
+2014,Ickes Praire,185000.0
+2014,Illinois Medical District,31500.0
+2014,Independence Park,367375.0
+2014,Indian Village,115000.0
+2014,Indian Woods,440811.25
+2014,Irving Park,262500.0
+2014,Irving Woods,210000.0
+2014,Jackson Park Highlands,382250.0
+2014,Jefferson Park,250125.0
+2014,Jeffrey Manor,22549.75
+2014,K-Town,42125.0
+2014,Kelvyn Park,187500.0
+2014,Kennedy Park,172000.0
+2014,Kenwood,152875.0
+2014,Kilbourn Park,175000.0
+2014,Koreatown,105000.0
+2014,Kosciuszko Park,256225.0
+2014,Lake Meadows,125000.0
+2014,Lake View,385062.5
+2014,Lake View East,259000.0
+2014,Lathrop,551000.0
+2014,Leclaire Courts,103800.0
+2014,Lincoln Park,495250.0
+2014,Lincoln Square,331000.0
+2014,Lithuanian Downtown,246000.0
+2014,Lithuanian Plaza,53594.0
+2014,Little Cassubia,276875.0
+2014,Little Italy,279125.0
+2014,Little Vietnam,303500.0
+2014,Logan Square,311000.0
+2014,Longwood Manor,55800.0
+2014,Loop,344500.0
+2014,Lower West Side,204000.0
+2014,Loyola,126000.0
+2014,Magnificent Mile,702500.0
+2014,Magnolia Glen,259750.0
+2014,Margate Park,115250.0
+2014,Marquette Park,69425.0
+2014,Marshall Square,74000.0
+2014,Mary Crest,134000.0
+2014,Marynook,114500.0
+2014,Mayfair,239250.0
+2014,Mckinley Park,174500.0
+2014,Midway Park,115000.0
+2014,Montclare,180000.0
+2014,Morgan Park,93000.0
+2014,Mount Greenwood,201250.0
+2014,Mount Greenwood Heights,245000.0
+2014,Near East Side,481000.0
+2014,Near North Side,390000.0
+2014,Near South Side,381500.0
+2014,New City,39750.0
+2014,New City / Back Of The Yards,34900.0
+2014,New East Side,451000.0
+2014,New Roseland,40250.0
+2014,Noble Square,416750.0
+2014,North Austin,101500.0
+2014,North Center,490975.0
+2014,North Kenwood,161000.0
+2014,North Lawndale,46000.0
+2014,North Mayfair,310000.0
+2014,North Park,243125.0
+2014,North Shore,395000.0
+2014,North Side,411625.0
+2014,Northwest Side,210000.0
+2014,Nortown,109000.0
+2014,Norwood Park,259850.0
+2014,Norwood Park East,263000.0
+2014,Norwood Park West,266000.0
+2014,Oakland,176700.0
+2014,Old Hegewisch,58500.0
+2014,Old Irving Park,250225.0
+2014,Old Norwood Park,367500.0
+2014,Old Town,407375.0
+2014,Old Town Triangle,416375.0
+2014,Oriole Park,252250.0
+2014,Palmer Square,295625.0
+2014,Park Manor,49950.0
+2014,Park West,324875.0
+2014,Peterson Park,292750.0
+2014,Pill Hill,60500.0
+2014,Pill Hill / Calument Heights,81500.0
+2014,Pilsen Historic District,233500.0
+2014,Portage Park,232725.0
+2014,Prairie District,385000.0
+2014,Princeton Park,33091.0
+2014,Printer'S Row,259000.0
+2014,Pulaski Park,338500.0
+2014,Pullman,45750.0
+2014,Ranch Triangle,584500.0
+2014,Ravenswood,357500.0
+2014,Ravenswood Gardens,516000.0
+2014,Ravenswood Manor,413300.0
+2014,River North,375125.0
+2014,River West,356225.0
+2014,Riverdale,11550.0
+2014,Rogers Park,154875.0
+2014,Rosehill,262750.0
+2014,Roseland,34375.0
+2014,Rosemoor,58250.0
+2014,Schorsch Forest View,274250.0
+2014,Schorsch Village,225000.0
+2014,Scottsdale,121257.5
+2014,Sheffield,657250.0
+2014,Sheridan Park,253750.0
+2014,Sheridan Station Corridor,313625.0
+2014,Slag Valley,59000.0
+2014,Sleepy Hollow,180500.0
+2014,Soldier Field Complex,649000.0
+2014,South Austin,43755.5
+2014,South Chicago,27500.0
+2014,South Commons,66750.0
+2014,South Deering,25399.5
+2014,South East Ravenswood,620750.0
+2014,South Edgebrook,349000.0
+2014,South Lawndale,64750.0
+2014,South Lawndale / Little Village,66025.0
+2014,South Loop,333000.0
+2014,South Old Irving Park,232500.0
+2014,South Shore,47375.0
+2014,South Side,105000.0
+2014,Southwest Side,112019.25
+2014,St. Ben'S,559250.0
+2014,Stateway Gardens,193500.0
+2014,Stony Island Park,57750.0
+2014,Streeterville,448375.0
+2014,Tally'S Corner,323700.0
+2014,The Bush,15863.5
+2014,The Chicago University,46250.0
+2014,The Gap,263300.0
+2014,The Island,102460.5
+2014,The Villa,356500.0
+2014,Tri-Taylor,147750.0
+2014,Ukrainian Village,449750.0
+2014,Union Ridge,262125.0
+2014,Uptown,233950.0
+2014,Vittum Park,158250.0
+2014,Waclawowo,263250.0
+2014,Washington Heights,58225.0
+2014,Washington Park,44125.0
+2014,West Beverly,198750.0
+2014,West Chatham,90728.25
+2014,West Chesterfield,71000.0
+2014,West Depaul,691500.0
+2014,West Elsdon,139475.0
+2014,West Englewood,15425.0
+2014,West Garfield Park,33155.0
+2014,West Humboldt Park,76375.0
+2014,West Lake View,442750.0
+2014,West Lawn,130436.0
+2014,West Morgan Park,207375.0
+2014,West Pullman,27206.25
+2014,West Ridge,137500.0
+2014,West Side,279875.0
+2014,West Town,410000.0
+2014,West Walker,322500.0
+2014,West Woodlawn,33237.5
+2014,Wicker Park,432500.0
+2014,Wildwood,408750.0
+2014,Woodlawn,59950.0
+2014,Woodlawn Ridge,43275.0
+2014,Wrightwood,302500.0
+2014,Wrigleyville,415125.0
+2015,Albany Park,254250.0
+2015,Andersonville,370625.0
+2015,Archer Heights,175625.0
+2015,Archer Highlands,175000.0
+2015,Armour Square,261375.0
+2015,Ashburn,144075.0
+2015,Ashburn Estates,173750.0
+2015,Auburn Gresham,55000.0
+2015,Austin,94500.0
+2015,Avalon Park,73875.0
+2015,Avondale,310975.0
+2015,Back Of The Yards,47625.0
+2015,Belmont Cragin,198000.0
+2015,Belmont Heights,212000.0
+2015,Belmont Terrace,233750.0
+2015,Beverly,264750.0
+2015,Beverly View,138750.0
+2015,Beverly Woods,135125.0
+2015,Big Oaks,262250.0
+2015,Bowmanville,364375.0
+2015,Brainerd,70567.25
+2015,Brickyard,169600.0
+2015,Bridgeport,296750.0
+2015,Brighton Park,132825.0
+2015,Bronzeville,131731.75
+2015,Bryn Mawr Highlands,40000.0
+2015,Bryn Mawr Historic District,191500.0
+2015,Brynford Park,305000.0
+2015,Bucktown,491750.0
+2015,Budlong Woods,166500.0
+2015,Buena Park,232000.0
+2015,Burnside,40000.0
+2015,Cabrini-Green,588836.25
+2015,Calumet Heights,80000.0
+2015,Canaryville,194575.0
+2015,Carl Sandburg Village,198850.0
+2015,Centerfield,176000.0
+2015,Central Chicago,375000.0
+2015,Central Station,457500.0
+2015,Chatham,65112.75
+2015,Chicago Lawn,77250.0
+2015,Chinatown,240000.0
+2015,Chrysler Village,126250.0
+2015,Clarendon Park,188450.0
+2015,Clearing,165500.0
+2015,Cottage Grove Heights,45875.0
+2015,Cragin,205000.0
+2015,Dearborn Park,359288.75
+2015,Depaul,665500.0
+2015,Douglas,149500.0
+2015,Douglas Park,48275.0
+2015,Downtown Chicago,380000.0
+2015,Dunning,220200.0
+2015,East Beverly,202475.0
+2015,East Chatham,32500.0
+2015,East Garfield Park,80625.0
+2015,East Humboldt Park,340250.0
+2015,East Pilsen,225650.5
+2015,East Ravenswood Historic District,287250.0
+2015,East Rogers Park,173750.0
+2015,East Side,72250.0
+2015,East Ukrainian Village,462500.0
+2015,Edgebrook,433750.0
+2015,Edgewater,214150.0
+2015,Edgewater Beach,160125.0
+2015,Edgewater Glen,339750.0
+2015,Edison Park,310750.0
+2015,Englewood,20150.0
+2015,Englewood Heights,82725.0
+2015,Far North Side,249250.0
+2015,Far Southeast Side,50350.0
+2015,Far Southwest Side,142399.5
+2015,Fernwood,26875.0
+2015,Fifth City,121519.0
+2015,Ford City,22725.0
+2015,Fuller Park,27250.0
+2015,Fulton Market,388000.0
+2015,Fulton River District,430000.0
+2015,Gage Park,106050.0
+2015,Galewood,203125.0
+2015,Garfield Ridge,190525.0
+2015,Gladstone Park,267500.0
+2015,Gold Coast,405000.0
+2015,Goose Island,421225.0
+2015,Graceland West,392500.0
+2015,Grand Boulevard,114625.0
+2015,Grand Crossing,34000.0
+2015,Greater Grand Crossing,40250.0
+2015,Greektown,359250.0
+2015,Groveland Park,85675.0
+2015,Hamlin Park,456000.0
+2015,Hanson Park,150000.0
+2015,Heart Of Chicago,166900.0
+2015,Heart Of Italy,200000.0
+2015,Hegewisch,96498.5
+2015,Hermosa,178500.0
+2015,Hollywood Park,279750.0
+2015,Homan Square,62002.75
+2015,Horner Park,422500.0
+2015,Humboldt Park,275250.0
+2015,Hyde Park,189000.0
+2015,Hyde Park Kenwood Historic District,215000.0
+2015,Illinois Medical District,235000.0
+2015,Independence Park,435500.0
+2015,Indian Village,108000.0
+2015,Indian Woods,451000.0
+2015,Irving Park,297250.0
+2015,Irving Woods,221375.0
+2015,Jackson Park Highlands,326500.0
+2015,Jefferson Park,261000.0
+2015,Jeffrey Manor,18000.0
+2015,K-Town,45075.0
+2015,Kelvyn Park,182450.0
+2015,Kennedy Park,195250.0
+2015,Kenwood,188250.0
+2015,Kilbourn Park,244500.0
+2015,Koreatown,132250.0
+2015,Kosciuszko Park,287750.0
+2015,Lake Meadows,150000.0
+2015,Lake View,362500.0
+2015,Lake View East,264500.0
+2015,Lathrop,566625.0
+2015,Leclaire Courts,107250.0
+2015,Lincoln Park,510500.0
+2015,Lincoln Square,353625.0
+2015,Lithuanian Downtown,240000.0
+2015,Lithuanian Plaza,96000.0
+2015,Little Cassubia,303250.0
+2015,Little Italy,285250.0
+2015,Little Vietnam,322875.0
+2015,Logan Square,341250.0
+2015,Longwood Manor,86000.0
+2015,Loop,350250.0
+2015,Lower West Side,185847.0
+2015,Loyola,163375.0
+2015,Magnificent Mile,815000.0
+2015,Magnolia Glen,273750.0
+2015,Margate Park,119750.0
+2015,Marquette Park,83575.0
+2015,Marshall Square,64250.0
+2015,Mary Crest,155000.0
+2015,Marynook,117875.0
+2015,Mayfair,291750.0
+2015,Mckinley Park,193222.0
+2015,Midway Park,125000.0
+2015,Montclare,202500.0
+2015,Morgan Park,141509.0
+2015,Mount Greenwood,199875.0
+2015,Mount Greenwood Heights,258000.0
+2015,Near East Side,492500.0
+2015,Near North Side,401875.0
+2015,Near South Side,360625.0
+2015,New City,51675.0
+2015,New City / Back Of The Yards,39250.0
+2015,New East Side,440750.0
+2015,New Roseland,36475.0
+2015,Noble Square,451875.0
+2015,North Austin,116579.0
+2015,North Center,496750.0
+2015,North Kenwood,222450.0
+2015,North Lawndale,51550.0
+2015,North Mayfair,299125.0
+2015,North Park,263375.0
+2015,North Shore,398000.0
+2015,North Side,416000.0
+2015,Northwest Side,225750.0
+2015,Nortown,83500.0
+2015,Norwood Park,271500.0
+2015,Norwood Park East,258250.0
+2015,Norwood Park West,295000.0
+2015,Oakland,270375.0
+2015,Old Hegewisch,88000.0
+2015,Old Irving Park,320425.0
+2015,Old Norwood Park,360500.0
+2015,Old Town,390000.0
+2015,Old Town Triangle,372500.0
+2015,Oriole Park,255125.0
+2015,Palmer Square,310000.0
+2015,Park Manor,53250.0
+2015,Park West,366000.0
+2015,Peterson Park,301750.0
+2015,Pill Hill,95100.0
+2015,Pill Hill / Calument Heights,77500.0
+2015,Pilsen Historic District,251250.0
+2015,Portage Park,252750.0
+2015,Prairie District,368500.0
+2015,Princeton Park,47250.0
+2015,Printer'S Row,237500.0
+2015,Pulaski Park,346375.0
+2015,Pullman,45000.0
+2015,Ranch Triangle,587500.0
+2015,Ravenswood,348000.0
+2015,Ravenswood Gardens,323250.0
+2015,Ravenswood Manor,533750.0
+2015,River North,400000.0
+2015,River West,381750.0
+2015,Riverdale,11000.0
+2015,Rogers Park,180125.0
+2015,Rosehill,284750.0
+2015,Roseland,32175.0
+2015,Rosemoor,55797.0
+2015,Schorsch Forest View,225499.75
+2015,Schorsch Village,233750.0
+2015,Scottsdale,149075.0
+2015,Sheffield,633500.0
+2015,Sheridan Park,264081.0
+2015,Sheridan Station Corridor,302250.0
+2015,Slag Valley,69125.0
+2015,Sleepy Hollow,156250.0
+2015,Soldier Field Complex,890000.0
+2015,South Austin,56552.5
+2015,South Chicago,40250.0
+2015,South Commons,77625.0
+2015,South Deering,22500.5
+2015,South East Ravenswood,386125.0
+2015,South Edgebrook,324250.0
+2015,South Lawndale,70062.5
+2015,South Lawndale / Little Village,70562.5
+2015,South Loop,336700.0
+2015,South Old Irving Park,267350.0
+2015,South Shore,50729.5
+2015,South Side,132725.0
+2015,Southwest Side,129000.0
+2015,St. Ben'S,636700.0
+2015,Stateway Gardens,150000.0
+2015,Stony Island Park,89850.0
+2015,Streeterville,431250.0
+2015,Tally'S Corner,355000.0
+2015,The Bush,23700.0
+2015,The Chicago University,54124.5
+2015,The Gap,295000.0
+2015,The Island,124500.0
+2015,The Villa,484000.0
+2015,Tri-Taylor,247500.0
+2015,Ukrainian Village,467600.0
+2015,Union Ridge,255625.0
+2015,Uptown,240275.0
+2015,Vittum Park,185875.0
+2015,Waclawowo,308725.0
+2015,Washington Heights,69317.25
+2015,Washington Park,56000.0
+2015,West Beverly,210000.0
+2015,West Chatham,86250.0
+2015,West Chesterfield,83000.0
+2015,West Depaul,552375.0
+2015,West Elsdon,150000.0
+2015,West Englewood,17568.25
+2015,West Garfield Park,39225.0
+2015,West Humboldt Park,104900.0
+2015,West Lake View,456875.0
+2015,West Lawn,151000.0
+2015,West Morgan Park,266125.0
+2015,West Pullman,28250.0
+2015,West Ridge,157750.0
+2015,West Side,311000.0
+2015,West Town,433000.0
+2015,West Walker,286225.0
+2015,West Woodlawn,42013.5
+2015,Wicker Park,490000.0
+2015,Wildwood,437500.0
+2015,Woodlawn,60927.0
+2015,Woodlawn Ridge,87225.0
+2015,Wrightwood,320750.0
+2015,Wrigleyville,429500.0
+2016,Albany Park,253250.0
+2016,Andersonville,425250.0
+2016,Archer Heights,181750.0
+2016,Archer Highlands,192250.0
+2016,Armour Square,257725.0
+2016,Ashburn,160000.0
+2016,Ashburn Estates,205750.0
+2016,Auburn Gresham,85000.0
+2016,Austin,120625.0
+2016,Avalon Park,103250.0
+2016,Avondale,331750.0
+2016,Back Of The Yards,66250.5
+2016,Belmont Cragin,233750.0
+2016,Belmont Heights,238750.0
+2016,Belmont Terrace,219875.0
+2016,Beverly,262625.0
+2016,Beverly View,169750.0
+2016,Beverly Woods,256500.0
+2016,Big Oaks,287750.0
+2016,Bowmanville,413125.0
+2016,Brainerd,81500.0
+2016,Brickyard,243750.0
+2016,Bridgeport,336375.0
+2016,Brighton Park,162625.0
+2016,Bronzeville,158524.5
+2016,Bryn Mawr Highlands,43625.0
+2016,Bryn Mawr Historic District,193125.0
+2016,Brynford Park,240000.0
+2016,Bucktown,498250.0
+2016,Budlong Woods,210375.0
+2016,Buena Park,227500.0
+2016,Burnside,39700.0
+2016,Cabrini-Green,330750.0
+2016,Calumet Heights,116250.0
+2016,Canaryville,160250.0
+2016,Carl Sandburg Village,214750.0
+2016,Centerfield,190000.0
+2016,Central Chicago,378000.0
+2016,Central Station,435500.0
+2016,Chatham,106500.0
+2016,Chicago Lawn,95750.0
+2016,Chinatown,235000.0
+2016,Chrysler Village,135500.0
+2016,Clarendon Park,249437.5
+2016,Clearing,193500.0
+2016,Cottage Grove Heights,44500.0
+2016,Cragin,243600.0
+2016,Dearborn Park,370000.0
+2016,Depaul,660000.0
+2016,Douglas,155000.0
+2016,Douglas Park,131450.0
+2016,Downtown Chicago,379500.0
+2016,Dunning,236750.0
+2016,East Beverly,218225.0
+2016,East Chatham,79000.0
+2016,East Garfield Park,110500.0
+2016,East Humboldt Park,346500.0
+2016,East Pilsen,366000.0
+2016,East Ravenswood Historic District,317625.0
+2016,East Rogers Park,181375.0
+2016,East Side,85077.25
+2016,East Ukrainian Village,526500.0
+2016,Edgebrook,490000.0
+2016,Edgewater,227250.0
+2016,Edgewater Beach,162000.0
+2016,Edgewater Glen,337125.0
+2016,Edison Park,310000.0
+2016,Englewood,20175.0
+2016,Englewood Heights,58875.0
+2016,Far North Side,262572.5
+2016,Far Southeast Side,68806.0
+2016,Far Southwest Side,156752.25
+2016,Fernwood,31029.25
+2016,Fifth City,45000.0
+2016,Ford City,30500.0
+2016,Fuller Park,64000.0
+2016,Fulton Market,426250.0
+2016,Fulton River District,431625.0
+2016,Gage Park,120000.0
+2016,Galewood,249950.0
+2016,Garfield Ridge,210000.0
+2016,Gladstone Park,280000.0
+2016,Gold Coast,485250.0
+2016,Goose Island,443000.0
+2016,Graceland West,327500.0
+2016,Grand Boulevard,163000.0
+2016,Grand Crossing,58425.0
+2016,Grant Park,379900.0
+2016,Greater Grand Crossing,74000.0
+2016,Greektown,347500.0
+2016,Groveland Park,148750.0
+2016,Hamlin Park,463500.0
+2016,Hanson Park,217250.0
+2016,Heart Of Chicago,227000.0
+2016,Heart Of Italy,225000.0
+2016,Hegewisch,109750.0
+2016,Hermosa,220000.0
+2016,Hollywood Park,299375.0
+2016,Homan Square,88500.0
+2016,Horner Park,533000.0
+2016,Humboldt Park,289750.0
+2016,Hyde Park,197500.0
+2016,Hyde Park Kenwood Historic District,208125.0
+2016,Ickes Praire,292625.0
+2016,Illinois Medical District,126000.0
+2016,Independence Park,447212.5
+2016,Indian Village,114625.0
+2016,Indian Woods,402000.0
+2016,Irving Park,286875.0
+2016,Irving Woods,245000.0
+2016,Jackson Park Highlands,393000.0
+2016,Jefferson Park,292500.0
+2016,Jeffrey Manor,24225.0
+2016,K-Town,47875.0
+2016,Kelvyn Park,254250.0
+2016,Kennedy Park,211250.0
+2016,Kenwood,183750.0
+2016,Kilbourn Park,264500.0
+2016,Kosciuszko Park,361376.0
+2016,Lake Meadows,128750.0
+2016,Lake View,381000.0
+2016,Lake View East,270500.0
+2016,Lathrop,562500.0
+2016,Leclaire Courts,133312.5
+2016,Lincoln Park,517500.0
+2016,Lincoln Square,364250.0
+2016,Lithuanian Downtown,169000.0
+2016,Lithuanian Plaza,109095.0
+2016,Little Cassubia,343125.0
+2016,Little Italy,321750.0
+2016,Little Vietnam,323875.0
+2016,Logan Square,379500.0
+2016,Longwood Manor,89750.0
+2016,Loop,347500.0
+2016,Lower West Side,285000.0
+2016,Loyola,172500.0
+2016,Magnificent Mile,725000.0
+2016,Magnolia Glen,265875.0
+2016,Margate Park,128000.0
+2016,Marquette Park,99500.0
+2016,Marshall Square,117000.0
+2016,Mary Crest,289000.0
+2016,Marynook,145000.0
+2016,Mayfair,274000.0
+2016,Mckinley Park,217500.0
+2016,Midway Park,242500.0
+2016,Montclare,197500.0
+2016,Morgan Park,137500.0
+2016,Mount Greenwood,207750.0
+2016,Mount Greenwood Heights,230000.0
+2016,Near East Side,473125.0
+2016,Near North Side,409500.0
+2016,Near South Side,364400.0
+2016,New City,66804.25
+2016,New City / Back Of The Yards,50750.0
+2016,New East Side,429250.0
+2016,New Roseland,41625.0
+2016,Noble Square,488500.0
+2016,North Austin,129875.0
+2016,North Center,517500.0
+2016,North Kenwood,213450.0
+2016,North Lawndale,57750.0
+2016,North Mayfair,288750.0
+2016,North Park,318750.0
+2016,North Shore,422500.0
+2016,North Side,428875.0
+2016,Northwest Side,255000.0
+2016,Nortown,210775.0
+2016,Norwood Park,299475.0
+2016,Norwood Park East,293500.0
+2016,Norwood Park West,328875.0
+2016,Oakland,253500.0
+2016,Old Hegewisch,68500.0
+2016,Old Irving Park,348750.0
+2016,Old Norwood Park,368750.0
+2016,Old Town,405875.0
+2016,Old Town Triangle,353875.0
+2016,Oriole Park,267000.0
+2016,Palmer Square,365000.0
+2016,Park Manor,85350.0
+2016,Park West,414000.0
+2016,Peterson Park,351875.0
+2016,Pill Hill,150000.0
+2016,Pill Hill / Calument Heights,118750.0
+2016,Pilsen Historic District,312500.0
+2016,Portage Park,278000.0
+2016,Prairie District,357500.0
+2016,Princeton Park,42000.0
+2016,Printer'S Row,262500.0
+2016,Pulaski Park,372250.0
+2016,Pullman,52149.5
+2016,Ranch Triangle,595000.0
+2016,Ravenswood,380000.0
+2016,Ravenswood Gardens,415200.0
+2016,Ravenswood Manor,516750.0
+2016,River North,404375.0
+2016,River West,413268.75
+2016,Riverdale,14750.0
+2016,Rogers Park,189750.0
+2016,Rosehill,366500.0
+2016,Roseland,43365.0
+2016,Rosemoor,93000.0
+2016,Schorsch Forest View,306750.0
+2016,Schorsch Village,255750.0
+2016,Scottsdale,150500.0
+2016,Sheffield,643125.0
+2016,Sheridan Park,278950.0
+2016,Sheridan Station Corridor,301250.0
+2016,Slag Valley,98375.0
+2016,Sleepy Hollow,170000.0
+2016,South Austin,68325.0
+2016,South Chicago,63075.0
+2016,South Commons,91500.0
+2016,South Deering,27875.0
+2016,South East Ravenswood,424000.0
+2016,South Edgebrook,320000.0
+2016,South Lawndale,98875.0
+2016,South Lawndale / Little Village,98125.0
+2016,South Loop,343900.0
+2016,South Old Irving Park,289500.0
+2016,South Shore,75000.0
+2016,South Side,149000.0
+2016,Southwest Side,154000.0
+2016,St. Ben'S,638287.0
+2016,Stateway Gardens,185000.0
+2016,Stony Island Park,124650.0
+2016,Streeterville,415000.0
+2016,Tally'S Corner,356250.0
+2016,The Bush,40900.0
+2016,The Chicago University,68554.0
+2016,The Gap,260000.0
+2016,The Island,150750.0
+2016,The Villa,390000.0
+2016,Tri-Taylor,274250.0
+2016,Ukrainian Village,473000.0
+2016,Union Ridge,275000.0
+2016,Uptown,255000.0
+2016,Vittum Park,179175.0
+2016,Waclawowo,284500.0
+2016,Washington Heights,102625.0
+2016,Washington Park,65000.0
+2016,West Beverly,232500.0
+2016,West Chatham,86500.0
+2016,West Chesterfield,99500.0
+2016,West Depaul,563750.0
+2016,West Elsdon,167500.0
+2016,West Englewood,23125.25
+2016,West Garfield Park,63250.0
+2016,West Humboldt Park,112250.0
+2016,West Lake View,437000.0
+2016,West Lawn,170000.0
+2016,West Morgan Park,286250.0
+2016,West Pullman,38775.75
+2016,West Ridge,176225.0
+2016,West Side,315750.0
+2016,West Town,455000.0
+2016,West Walker,399250.0
+2016,West Woodlawn,74375.0
+2016,Wicker Park,511750.0
+2016,Wildwood,501250.0
+2016,Woodlawn,87250.25
+2016,Woodlawn Ridge,84975.0
+2016,Wrightwood,350750.0
+2016,Wrigleyville,489000.0
+2017,Albany Park,284125.0
+2017,Andersonville,413875.0
+2017,Archer Heights,212750.0
+2017,Archer Highlands,207875.0
+2017,Armour Square,275750.0
+2017,Ashburn,175000.0
+2017,Ashburn Estates,217000.0
+2017,Auburn Gresham,91750.0
+2017,Austin,155000.0
+2017,Avalon Park,102500.0
+2017,Avondale,374750.0
+2017,Back Of The Yards,63543.0
+2017,Belmont Cragin,284500.0
+2017,Belmont Heights,249250.0
+2017,Belmont Terrace,253375.0
+2017,Beverly,281750.0
+2017,Beverly View,142500.0
+2017,Beverly Woods,230000.0
+2017,Big Oaks,298250.0
+2017,Bowmanville,403750.0
+2017,Brainerd,149000.0
+2017,Brickyard,202375.0
+2017,Bridgeport,342250.0
+2017,Brighton Park,181500.0
+2017,Bronzeville,213250.0
+2017,Bryn Mawr Highlands,60625.0
+2017,Bryn Mawr Historic District,186810.0
+2017,Bucktown,510000.0
+2017,Budlong Woods,213125.0
+2017,Buena Park,237500.0
+2017,Burnside,48000.0
+2017,Cabrini-Green,429875.0
+2017,Calumet Heights,110000.0
+2017,Canaryville,241000.0
+2017,Carl Sandburg Village,223750.0
+2017,Centerfield,195000.0
+2017,Central Chicago,390000.0
+2017,Central Station,454950.0
+2017,Chatham,115250.0
+2017,Chicago Lawn,125500.0
+2017,Chinatown,255000.0
+2017,Chrysler Village,140500.0
+2017,Clarendon Park,246000.0
+2017,Clearing,208000.0
+2017,Cottage Grove Heights,117500.0
+2017,Cragin,266250.0
+2017,Dearborn Park,395500.0
+2017,Depaul,700000.0
+2017,Douglas,237750.0
+2017,Douglas Park,176000.0
+2017,Downtown Chicago,390000.0
+2017,Dunning,257000.0
+2017,East Beverly,196500.0
+2017,East Chatham,100549.75
+2017,East Garfield Park,154750.0
+2017,East Humboldt Park,387500.0
+2017,East Pilsen,435625.0
+2017,East Ravenswood Historic District,324000.0
+2017,East Rogers Park,181250.0
+2017,East Side,105250.0
+2017,East Ukrainian Village,525750.0
+2017,Edgebrook,471250.0
+2017,Edgewater,244375.0
+2017,Edgewater Beach,165500.0
+2017,Edgewater Glen,381250.0
+2017,Edison Park,314750.0
+2017,Englewood,27750.0
+2017,Englewood Heights,57000.0
+2017,Far North Side,270000.0
+2017,Far Southeast Side,86500.0
+2017,Far Southwest Side,168375.0
+2017,Fernwood,37675.0
+2017,Fifth City,68400.0
+2017,Ford City,38500.0
+2017,Fuller Park,43500.0
+2017,Fulton Market,436250.0
+2017,Fulton River District,456000.0
+2017,Gage Park,149000.0
+2017,Galewood,242750.0
+2017,Garfield Ridge,224625.0
+2017,Gladstone Park,330500.0
+2017,Gold Coast,446500.0
+2017,Goose Island,415375.0
+2017,Graceland West,344000.0
+2017,Grand Boulevard,199625.0
+2017,Grand Crossing,66000.0
+2017,Grant Park,379900.0
+2017,Greater Grand Crossing,75250.0
+2017,Greektown,370500.0
+2017,Groveland Park,87700.0
+2017,Hamlin Park,515000.0
+2017,Hanson Park,231750.0
+2017,Heart Of Chicago,258500.0
+2017,Heart Of Italy,234750.0
+2017,Hegewisch,128500.0
+2017,Hermosa,250000.0
+2017,Hollywood Park,327625.0
+2017,Homan Square,92375.0
+2017,Horner Park,523000.0
+2017,Humboldt Park,300000.0
+2017,Hyde Park,218375.0
+2017,Hyde Park Kenwood Historic District,227500.0
+2017,Ickes Praire,309000.0
+2017,Illinois Medical District,126000.0
+2017,Independence Park,405625.0
+2017,Indian Village,115875.0
+2017,Indian Woods,451000.0
+2017,Irving Park,341625.0
+2017,Irving Woods,264500.0
+2017,Jackson Park Highlands,425000.0
+2017,Jefferson Park,290000.0
+2017,Jeffrey Manor,39500.0
+2017,K-Town,53500.0
+2017,Kelvyn Park,300000.0
+2017,Kennedy Park,202375.0
+2017,Kenwood,179750.0
+2017,Kilbourn Park,253750.0
+2017,Koreatown,107500.0
+2017,Kosciuszko Park,340625.0
+2017,Lake Meadows,132000.0
+2017,Lake View,396650.0
+2017,Lake View East,280000.0
+2017,Lathrop,660500.0
+2017,Leclaire Courts,120875.0
+2017,Lincoln Park,560000.0
+2017,Lincoln Square,366550.0
+2017,Lithuanian Downtown,225000.0
+2017,Lithuanian Plaza,37500.0
+2017,Little Cassubia,340000.0
+2017,Little Italy,329375.0
+2017,Little Vietnam,315000.0
+2017,Logan Square,400000.0
+2017,Longwood Manor,119650.0
+2017,Loop,344762.5
+2017,Lower West Side,330000.0
+2017,Loyola,181375.0
+2017,Magnificent Mile,817437.5
+2017,Magnolia Glen,236500.0
+2017,Margate Park,130750.0
+2017,Marquette Park,125000.0
+2017,Marshall Square,133500.0
+2017,Mary Crest,265875.0
+2017,Marynook,166250.0
+2017,Mayfair,312500.0
+2017,Mckinley Park,237750.0
+2017,Midway Park,174250.0
+2017,Montclare,237250.0
+2017,Morgan Park,154950.0
+2017,Mount Greenwood,235000.0
+2017,Mount Greenwood Heights,327500.0
+2017,Near East Side,518500.0
+2017,Near North Side,408375.0
+2017,Near South Side,378750.0
+2017,New City,67168.25
+2017,New City / Back Of The Yards,57875.0
+2017,New East Side,461250.0
+2017,New Roseland,74125.0
+2017,Noble Square,542500.0
+2017,North Austin,192875.0
+2017,North Center,566250.0
+2017,North Kenwood,276000.0
+2017,North Lawndale,80475.0
+2017,North Mayfair,347500.0
+2017,North Park,301500.0
+2017,North Shore,424500.0
+2017,North Side,455000.0
+2017,Northwest Side,277125.0
+2017,Nortown,175000.0
+2017,Norwood Park,303500.0
+2017,Norwood Park East,306212.5
+2017,Norwood Park West,325625.0
+2017,Oakland,357475.0
+2017,Old Hegewisch,109975.0
+2017,Old Irving Park,402500.0
+2017,Old Norwood Park,367500.0
+2017,Old Town,421750.0
+2017,Old Town Triangle,377500.0
+2017,Oriole Park,291200.0
+2017,Palmer Square,368125.0
+2017,Park Manor,83000.0
+2017,Park West,344125.0
+2017,Peterson Park,347500.0
+2017,Pill Hill,106000.0
+2017,Pill Hill / Calument Heights,111250.0
+2017,Pilsen Historic District,374750.0
+2017,Portage Park,304500.0
+2017,Prairie District,371750.0
+2017,Princeton Park,88000.0
+2017,Printer'S Row,285125.0
+2017,Pulaski Park,381375.0
+2017,Pullman,103750.0
+2017,Ranch Triangle,636000.0
+2017,Ravenswood,380500.0
+2017,Ravenswood Gardens,318250.0
+2017,Ravenswood Manor,567500.0
+2017,River North,402500.0
+2017,River West,455625.0
+2017,Riverdale,22000.0
+2017,Rogers Park,200992.0
+2017,Rosehill,318500.0
+2017,Roseland,52500.0
+2017,Rosemoor,83250.0
+2017,Schorsch Forest View,264000.0
+2017,Schorsch Village,279625.0
+2017,Scottsdale,177875.0
+2017,Sheffield,701250.0
+2017,Sheridan Park,317500.0
+2017,Sheridan Station Corridor,348000.0
+2017,Slag Valley,81000.0
+2017,Sleepy Hollow,270000.0
+2017,South Austin,103750.0
+2017,South Chicago,60750.0
+2017,South Commons,94697.0
+2017,South Deering,57712.5
+2017,South East Ravenswood,650000.0
+2017,South Edgebrook,353750.0
+2017,South Lawndale,125000.0
+2017,South Lawndale / Little Village,123750.0
+2017,South Loop,353000.0
+2017,South Old Irving Park,348499.5
+2017,South Shore,85125.0
+2017,South Side,185000.0
+2017,Southwest Side,163500.0
+2017,St. Ben'S,661750.0
+2017,Stateway Gardens,138000.0
+2017,Stony Island Park,119250.0
+2017,Streeterville,384750.0
+2017,Tally'S Corner,340000.0
+2017,The Bush,42500.0
+2017,The Chicago University,60000.0
+2017,The Gap,267750.0
+2017,The Island,187000.0
+2017,The Villa,511500.0
+2017,Tri-Taylor,226000.0
+2017,Ukrainian Village,497500.0
+2017,Union Ridge,277000.0
+2017,Uptown,254000.0
+2017,Vittum Park,208500.0
+2017,Waclawowo,346750.0
+2017,Washington Heights,123375.0
+2017,Washington Park,75000.0
+2017,West Beverly,210000.0
+2017,West Chatham,119000.0
+2017,West Chesterfield,95750.0
+2017,West Depaul,676250.0
+2017,West Elsdon,174750.0
+2017,West Englewood,28250.0
+2017,West Garfield Park,54125.0
+2017,West Humboldt Park,150000.0
+2017,West Lake View,445000.0
+2017,West Lawn,181500.0
+2017,West Morgan Park,260000.0
+2017,West Pullman,42744.75
+2017,West Ridge,182500.0
+2017,West Side,331000.0
+2017,West Town,477500.0
+2017,West Walker,389000.0
+2017,West Woodlawn,125250.0
+2017,Wicker Park,502500.0
+2017,Wildwood,441250.0
+2017,Woodlawn,143250.0
+2017,Woodlawn Ridge,137000.0
+2017,Wrightwood,356500.0
+2017,Wrigleyville,486250.0
+2018,Albany Park,261625.0
+2018,Andersonville,421750.0
+2018,Archer Heights,212250.0
+2018,Archer Highlands,203500.0
+2018,Armour Square,297000.0
+2018,Ashburn,188750.0
+2018,Ashburn Estates,222875.0
+2018,Auburn Gresham,101750.0
+2018,Austin,184250.0
+2018,Avalon Park,144000.0
+2018,Avondale,399250.0
+2018,Back Of The Yards,113750.0
+2018,Belmont Cragin,259250.0
+2018,Belmont Heights,271500.0
+2018,Belmont Terrace,280000.0
+2018,Beverly,292500.0
+2018,Beverly View,135000.0
+2018,Beverly Woods,209000.0
+2018,Big Oaks,312000.0
+2018,Bowmanville,461250.0
+2018,Brainerd,119000.0
+2018,Brickyard,232000.0
+2018,Bridgeport,363500.0
+2018,Brighton Park,186250.0
+2018,Bronzeville,224750.0
+2018,Bryn Mawr Highlands,101875.0
+2018,Bryn Mawr Historic District,192000.0
+2018,Brynford Park,378500.0
+2018,Bucktown,570750.0
+2018,Budlong Woods,263125.0
+2018,Buena Park,244000.0
+2018,Burnside,59750.0
+2018,Cabrini-Green,389625.0
+2018,Calumet Heights,142750.0
+2018,Canaryville,290000.0
+2018,Carl Sandburg Village,239500.0
+2018,Centerfield,193250.0
+2018,Central Chicago,395000.0
+2018,Central Station,480875.0
+2018,Chatham,129612.5
+2018,Chicago Lawn,130000.0
+2018,Chinatown,279000.0
+2018,Chrysler Village,156750.0
+2018,Clarendon Park,230750.0
+2018,Clearing,211500.0
+2018,Cottage Grove Heights,99000.0
+2018,Cragin,288500.0
+2018,Dearborn Park,386250.0
+2018,Depaul,792250.0
+2018,Douglas,236125.0
+2018,Douglas Park,126500.0
+2018,Downtown Chicago,391000.0
+2018,Dunning,268875.0
+2018,East Beverly,235000.0
+2018,East Chatham,86500.0
+2018,East Garfield Park,169125.0
+2018,East Humboldt Park,409000.0
+2018,East Pilsen,365000.0
+2018,East Ravenswood Historic District,363375.0
+2018,East Rogers Park,197125.0
+2018,East Side,113500.0
+2018,East Ukrainian Village,558500.0
+2018,Edgebrook,487250.0
+2018,Edgewater,239250.0
+2018,Edgewater Beach,160250.0
+2018,Edgewater Glen,339750.0
+2018,Edison Park,342500.0
+2018,Englewood,37500.0
+2018,Englewood Heights,155000.0
+2018,Far North Side,280000.0
+2018,Far Southeast Side,95000.0
+2018,Far Southwest Side,169750.0
+2018,Fernwood,62287.5
+2018,Fifth City,144375.0
+2018,Ford City,43375.0
+2018,Fuller Park,98125.0
+2018,Fulton Market,448500.0
+2018,Fulton River District,457250.0
+2018,Gage Park,159750.0
+2018,Galewood,255750.0
+2018,Garfield Ridge,226500.0
+2018,Gladstone Park,319000.0
+2018,Gold Coast,465875.0
+2018,Goose Island,436250.0
+2018,Graceland West,435250.0
+2018,Grand Boulevard,220000.0
+2018,Grand Crossing,75000.0
+2018,Greater Grand Crossing,97250.0
+2018,Greektown,418625.0
+2018,Groveland Park,241750.0
+2018,Hamlin Park,486975.0
+2018,Hanson Park,247975.0
+2018,Heart Of Chicago,338750.0
+2018,Heart Of Italy,259000.0
+2018,Hegewisch,128000.0
+2018,Hermosa,273000.0
+2018,Hollywood Park,315000.0
+2018,Homan Square,119250.0
+2018,Horner Park,515000.0
+2018,Humboldt Park,329250.0
+2018,Hyde Park,198750.0
+2018,Hyde Park Kenwood Historic District,217250.0
+2018,Ickes Praire,320475.0
+2018,Illinois Medical District,100000.0
+2018,Independence Park,556500.0
+2018,Indian Village,131250.0
+2018,Indian Woods,332500.0
+2018,Irving Park,367500.0
+2018,Irving Woods,271250.0
+2018,Jackson Park Highlands,551225.0
+2018,Jefferson Park,324375.0
+2018,Jeffrey Manor,40250.0
+2018,K-Town,105500.0
+2018,Kelvyn Park,279750.0
+2018,Kennedy Park,192500.0
+2018,Kenwood,219750.0
+2018,Kilbourn Park,357787.0
+2018,Koreatown,179000.0
+2018,Kosciuszko Park,405000.0
+2018,Lake Meadows,178000.0
+2018,Lake View,410500.0
+2018,Lake View East,276250.0
+2018,Lathrop,636000.0
+2018,Leclaire Courts,170950.0
+2018,Lincoln Park,566750.0
+2018,Lincoln Square,389125.0
+2018,Lithuanian Downtown,285000.0
+2018,Lithuanian Plaza,173500.0
+2018,Little Cassubia,366250.0
+2018,Little Italy,326500.0
+2018,Little Vietnam,312500.0
+2018,Logan Square,420750.0
+2018,Longwood Manor,119875.0
+2018,Loop,340125.0
+2018,Lower West Side,366250.0
+2018,Loyola,199125.0
+2018,Magnificent Mile,717500.0
+2018,Magnolia Glen,313750.0
+2018,Margate Park,128250.0
+2018,Marquette Park,147375.0
+2018,Marshall Square,170000.0
+2018,Mary Crest,285000.0
+2018,Marynook,152750.0
+2018,Mayfair,312500.0
+2018,Mckinley Park,272000.0
+2018,Midway Park,122500.0
+2018,Montclare,250000.0
+2018,Morgan Park,155450.0
+2018,Mount Greenwood,230250.0
+2018,Mount Greenwood Heights,315000.0
+2018,Near East Side,461250.0
+2018,Near North Side,414625.0
+2018,Near South Side,375000.0
+2018,New City,120250.0
+2018,New City / Back Of The Yards,85000.0
+2018,New East Side,428750.0
+2018,New Roseland,115000.0
+2018,Noble Square,549750.0
+2018,North Austin,220000.0
+2018,North Center,550000.0
+2018,North Kenwood,267500.0
+2018,North Lawndale,118250.0
+2018,North Mayfair,336875.0
+2018,North Park,310500.0
+2018,North Shore,442250.0
+2018,North Side,470000.0
+2018,Northwest Side,290000.0
+2018,Nortown,162250.0
+2018,Norwood Park,305000.0
+2018,Norwood Park East,300500.0
+2018,Norwood Park West,303750.0
+2018,Oakland,344950.0
+2018,Old Hegewisch,122500.0
+2018,Old Irving Park,397500.0
+2018,Old Norwood Park,409750.0
+2018,Old Town,414000.0
+2018,Old Town Triangle,426250.0
+2018,Oriole Park,291000.0
+2018,Palmer Square,380125.0
+2018,Park Manor,129250.0
+2018,Park West,335250.0
+2018,Peterson Park,320000.0
+2018,Pill Hill,148000.0
+2018,Pill Hill / Calument Heights,142000.0
+2018,Pilsen Historic District,403500.0
+2018,Portage Park,318750.0
+2018,Prairie District,393725.0
+2018,Princeton Park,47500.0
+2018,Printer'S Row,254750.0
+2018,Pulaski Park,377500.0
+2018,Pullman,77397.5
+2018,Ranch Triangle,633500.0
+2018,Ravenswood,402125.0
+2018,Ravenswood Gardens,476500.0
+2018,Ravenswood Manor,579750.0
+2018,River North,405000.0
+2018,River West,457500.0
+2018,Riverdale,38250.0
+2018,Rogers Park,226200.0
+2018,Rosehill,376250.0
+2018,Roseland,79000.0
+2018,Rosemoor,132250.0
+2018,Schorsch Forest View,256000.0
+2018,Schorsch Village,280875.0
+2018,Scottsdale,188500.0
+2018,Sheffield,721250.0
+2018,Sheridan Park,323750.0
+2018,Sheridan Station Corridor,356250.0
+2018,Slag Valley,107000.0
+2018,Sleepy Hollow,203250.0
+2018,South Austin,129925.0
+2018,South Chicago,76475.0
+2018,South Commons,88125.0
+2018,South Deering,69500.0
+2018,South East Ravenswood,576250.0
+2018,South Edgebrook,410000.0
+2018,South Lawndale,152625.0
+2018,South Lawndale / Little Village,152500.0
+2018,South Loop,348500.0
+2018,South Old Irving Park,322250.0
+2018,South Shore,102500.0
+2018,South Side,195000.0
+2018,Southwest Side,174375.0
+2018,St. Ben'S,680500.0
+2018,Stateway Gardens,268500.0
+2018,Stony Island Park,155000.0
+2018,Streeterville,405000.0
+2018,Tally'S Corner,342000.0
+2018,The Bush,62500.0
+2018,The Chicago University,93500.0
+2018,The Gap,265000.0
+2018,The Island,167562.5
+2018,The Villa,710000.0
+2018,Tri-Taylor,253000.0
+2018,Ukrainian Village,528750.0
+2018,Union Ridge,287000.0
+2018,Uptown,282112.5
+2018,Vittum Park,225000.0
+2018,Waclawowo,377117.5
+2018,Washington Heights,121500.0
+2018,Washington Park,134475.0
+2018,West Beverly,220000.0
+2018,West Chatham,154250.0
+2018,West Chesterfield,149750.0
+2018,West Depaul,608000.0
+2018,West Elsdon,184375.0
+2018,West Englewood,40250.0
+2018,West Garfield Park,90500.0
+2018,West Humboldt Park,194875.0
+2018,West Lake View,452250.0
+2018,West Lawn,199375.0
+2018,West Morgan Park,308750.0
+2018,West Pullman,62025.0
+2018,West Ridge,205000.0
+2018,West Side,348500.0
+2018,West Town,499000.0
+2018,West Walker,369000.0
+2018,West Woodlawn,111500.0
+2018,Wicker Park,516125.0
+2018,Wildwood,441250.0
+2018,Woodlawn,147500.0
+2018,Woodlawn Ridge,159750.0
+2018,Wrightwood,381125.0
+2018,Wrigleyville,510750.0
+2019,Albany Park,292500.0
+2019,Andersonville,368250.0
+2019,Archer Heights,228750.0
+2019,Archer Highlands,217750.0
+2019,Armour Square,299250.0
+2019,Ashburn,198250.0
+2019,Ashburn Estates,225500.0
+2019,Auburn Gresham,146000.0
+2019,Austin,196000.0
+2019,Avalon Park,137000.0
+2019,Avondale,394500.0
+2019,Back Of The Yards,125000.0
+2019,Belmont Cragin,278625.0
+2019,Belmont Heights,261750.0
+2019,Belmont Terrace,267725.0
+2019,Beverly,308500.0
+2019,Beverly View,152375.0
+2019,Beverly Woods,230000.0
+2019,Big Oaks,314375.0
+2019,Bowmanville,490000.0
+2019,Brainerd,161250.0
+2019,Brickyard,200000.0
+2019,Bridgeport,380000.0
+2019,Brighton Park,215000.0
+2019,Bronzeville,243375.0
+2019,Bryn Mawr Highlands,51000.0
+2019,Bryn Mawr Historic District,249500.0
+2019,Brynford Park,332500.0
+2019,Bucktown,565687.5
+2019,Budlong Woods,236000.0
+2019,Buena Park,265250.0
+2019,Burnside,116750.0
+2019,Cabrini-Green,403750.0
+2019,Calumet Heights,149000.0
+2019,Canaryville,288375.0
+2019,Carl Sandburg Village,226250.0
+2019,Centerfield,249000.0
+2019,Central Chicago,379000.0
+2019,Central Station,442250.0
+2019,Chatham,149950.0
+2019,Chicago Lawn,166250.0
+2019,Chinatown,282750.0
+2019,Chrysler Village,166625.0
+2019,Clarendon Park,255500.0
+2019,Clearing,233250.0
+2019,Cottage Grove Heights,87475.0
+2019,Cragin,287250.0
+2019,Dearborn Park,386500.0
+2019,Depaul,662500.0
+2019,Douglas,198900.0
+2019,Douglas Park,192000.0
+2019,Downtown Chicago,379000.0
+2019,Dunning,264000.0
+2019,East Beverly,219200.0
+2019,East Chatham,89000.0
+2019,East Garfield Park,181500.0
+2019,East Humboldt Park,412000.0
+2019,East Pilsen,387475.0
+2019,East Ravenswood Historic District,353250.0
+2019,East Rogers Park,187875.0
+2019,East Side,121067.25
+2019,East Ukrainian Village,540250.0
+2019,Edgebrook,483750.0
+2019,Edgewater,230500.0
+2019,Edgewater Beach,169625.0
+2019,Edgewater Glen,425000.0
+2019,Edison Park,328000.0
+2019,Englewood,45000.0
+2019,Englewood Heights,166000.0
+2019,Far North Side,287500.0
+2019,Far Southeast Side,112500.0
+2019,Far Southwest Side,186750.0
+2019,Fernwood,72250.0
+2019,Fifth City,183500.0
+2019,Ford City,35250.0
+2019,Fuller Park,119500.0
+2019,Fulton Market,507500.0
+2019,Fulton River District,403475.0
+2019,Gage Park,185100.0
+2019,Galewood,233500.0
+2019,Garfield Ridge,249500.0
+2019,Gladstone Park,322375.0
+2019,Gold Coast,432750.0
+2019,Goose Island,417000.0
+2019,Graceland West,369137.5
+2019,Grand Boulevard,247500.0
+2019,Grand Crossing,71037.5
+2019,Greater Grand Crossing,102250.0
+2019,Greektown,397500.0
+2019,Groveland Park,320125.0
+2019,Hamlin Park,487500.0
+2019,Hanson Park,264500.0
+2019,Heart Of Chicago,315500.0
+2019,Heart Of Italy,259000.0
+2019,Hegewisch,145250.0
+2019,Hermosa,275000.0
+2019,Hollywood Park,357250.0
+2019,Homan Square,137725.0
+2019,Horner Park,469450.0
+2019,Humboldt Park,335000.0
+2019,Hyde Park,205250.0
+2019,Hyde Park Kenwood Historic District,232405.75
+2019,Ickes Praire,346000.0
+2019,Illinois Medical District,180900.0
+2019,Independence Park,365000.0
+2019,Indian Village,124250.0
+2019,Indian Woods,355000.0
+2019,Irving Park,354750.0
+2019,Irving Woods,264100.0
+2019,Jackson Park Highlands,256500.0
+2019,Jefferson Park,317250.0
+2019,Jeffrey Manor,48125.0
+2019,K-Town,137500.0
+2019,Kelvyn Park,287000.0
+2019,Kennedy Park,220250.0
+2019,Kenwood,268500.0
+2019,Kilbourn Park,280250.0
+2019,Koreatown,122000.0
+2019,Kosciuszko Park,438000.0
+2019,Lake Meadows,128500.0
+2019,Lake View,396250.0
+2019,Lake View East,259875.0
+2019,Lathrop,667000.0
+2019,Leclaire Courts,172250.0
+2019,Lincoln Park,579375.0
+2019,Lincoln Square,398000.0
+2019,Lithuanian Downtown,248500.0
+2019,Lithuanian Plaza,145000.0
+2019,Little Cassubia,399750.0
+2019,Little Italy,316250.0
+2019,Little Vietnam,376250.0
+2019,Logan Square,425000.0
+2019,Longwood Manor,153725.0
+2019,Loop,334500.0
+2019,Lower West Side,357500.0
+2019,Loyola,180250.0
+2019,Magnificent Mile,556677.5
+2019,Magnolia Glen,240000.0
+2019,Margate Park,129500.0
+2019,Marquette Park,172500.0
+2019,Marshall Square,175000.0
+2019,Mary Crest,295000.0
+2019,Marynook,178500.0
+2019,Mayfair,329500.0
+2019,Mckinley Park,283750.0
+2019,Midway Park,110500.0
+2019,Montclare,255500.0
+2019,Morgan Park,174250.0
+2019,Mount Greenwood,241000.0
+2019,Mount Greenwood Heights,275000.0
+2019,Near East Side,489500.0
+2019,Near North Side,399250.0
+2019,Near South Side,371875.0
+2019,New City,128800.0
+2019,New City / Back Of The Yards,108500.0
+2019,New East Side,421250.0
+2019,New Roseland,136500.0
+2019,Noble Square,487500.0
+2019,North Austin,207500.0
+2019,North Center,548000.0
+2019,North Kenwood,296500.0
+2019,North Lawndale,161250.0
+2019,North Mayfair,323875.0
+2019,North Park,344250.0
+2019,North Shore,436125.0
+2019,North Side,467500.0
+2019,Northwest Side,292500.0
+2019,Nortown,165500.0
+2019,Norwood Park,318375.0
+2019,Norwood Park East,331400.0
+2019,Norwood Park West,325875.0
+2019,Oakland,308750.0
+2019,Old Hegewisch,142500.0
+2019,Old Irving Park,360000.0
+2019,Old Norwood Park,392250.0
+2019,Old Town,407500.0
+2019,Old Town Triangle,329875.0
+2019,Oriole Park,287750.0
+2019,Palmer Square,380000.0
+2019,Park Manor,146750.0
+2019,Park West,379250.0
+2019,Peterson Park,361250.0
+2019,Pill Hill,136375.0
+2019,Pill Hill / Calument Heights,149000.0
+2019,Pilsen Historic District,406700.0
+2019,Portage Park,332250.0
+2019,Prairie District,362500.0
+2019,Princeton Park,87225.0
+2019,Printer'S Row,270500.0
+2019,Pulaski Park,409500.0
+2019,Pullman,63750.0
+2019,Ranch Triangle,635375.0
+2019,Ravenswood,413500.0
+2019,Ravenswood Gardens,353500.0
+2019,Ravenswood Manor,537500.0
+2019,River North,412000.0
+2019,River West,466000.0
+2019,Riverdale,23625.0
+2019,Rogers Park,253250.0
+2019,Rosehill,369250.0
+2019,Roseland,87500.0
+2019,Rosemoor,137900.0
+2019,Schorsch Forest View,205875.0
+2019,Schorsch Village,290000.0
+2019,Scottsdale,193500.0
+2019,Sheffield,615000.0
+2019,Sheridan Park,317000.0
+2019,Sheridan Station Corridor,382500.0
+2019,Slag Valley,116000.0
+2019,Sleepy Hollow,226000.0
+2019,South Austin,170250.0
+2019,South Chicago,75000.0
+2019,South Commons,89375.0
+2019,South Deering,81500.0
+2019,South East Ravenswood,497625.0
+2019,South Edgebrook,413750.0
+2019,South Lawndale,181500.0
+2019,South Lawndale / Little Village,183000.0
+2019,South Loop,351375.0
+2019,South Old Irving Park,342875.0
+2019,South Shore,106250.0
+2019,South Side,201250.0
+2019,Southwest Side,195750.0
+2019,St. Ben'S,707500.0
+2019,Stateway Gardens,139250.0
+2019,Stony Island Park,165750.0
+2019,Streeterville,370500.0
+2019,Tally'S Corner,349000.0
+2019,The Bush,84000.0
+2019,The Chicago University,95650.0
+2019,The Gap,317500.0
+2019,The Island,175500.0
+2019,The Villa,438625.0
+2019,Tri-Taylor,264875.0
+2019,Ukrainian Village,522250.0
+2019,Union Ridge,285000.0
+2019,Uptown,287875.0
+2019,Vittum Park,225079.0
+2019,Waclawowo,400250.0
+2019,Washington Heights,152725.0
+2019,Washington Park,115750.0
+2019,West Beverly,263500.0
+2019,West Chatham,125000.0
+2019,West Chesterfield,133000.0
+2019,West Depaul,580000.0
+2019,West Elsdon,215250.0
+2019,West Englewood,51500.0
+2019,West Garfield Park,119250.0
+2019,West Humboldt Park,223500.0
+2019,West Lake View,501250.0
+2019,West Lawn,210000.0
+2019,West Morgan Park,276625.0
+2019,West Pullman,78525.0
+2019,West Ridge,222500.0
+2019,West Side,340000.0
+2019,West Town,499500.0
+2019,West Walker,391625.0
+2019,West Woodlawn,149375.0
+2019,Wicker Park,525250.0
+2019,Wildwood,442250.0
+2019,Woodlawn,175375.0
+2019,Woodlawn Ridge,245000.0
+2019,Wrightwood,383875.0
+2019,Wrigleyville,452750.0
+2020,Albany Park,321250.0
+2020,Andersonville,478500.0
+2020,Archer Heights,249750.0
+2020,Archer Highlands,251250.0
+2020,Armour Square,365000.0
+2020,Ashburn,209950.0
+2020,Ashburn Estates,234250.0
+2020,Auburn Gresham,175000.0
+2020,Austin,246000.0
+2020,Avalon Park,173000.0
+2020,Avondale,432500.0
+2020,Back Of The Yards,176000.0
+2020,Belmont Cragin,340000.0
+2020,Belmont Heights,288750.0
+2020,Belmont Terrace,263975.0
+2020,Beverly,328750.0
+2020,Beverly View,180000.0
+2020,Beverly Woods,265125.0
+2020,Big Oaks,329500.0
+2020,Bowmanville,468000.0
+2020,Brainerd,156000.0
+2020,Brickyard,241500.0
+2020,Bridgeport,401000.0
+2020,Brighton Park,226250.0
+2020,Bronzeville,291250.0
+2020,Bryn Mawr Highlands,120000.0
+2020,Bryn Mawr Historic District,265000.0
+2020,Brynford Park,306250.0
+2020,Bucktown,536250.0
+2020,Budlong Woods,224750.0
+2020,Buena Park,265750.0
+2020,Burnside,152500.0
+2020,Cabrini-Green,426000.0
+2020,Calumet Heights,169875.0
+2020,Canaryville,392500.0
+2020,Carl Sandburg Village,243000.0
+2020,Centerfield,240000.0
+2020,Central Chicago,388250.0
+2020,Central Station,505500.0
+2020,Chatham,162500.0
+2020,Chicago Lawn,193875.0
+2020,Chinatown,310000.0
+2020,Chrysler Village,179750.0
+2020,Clarendon Park,291875.0
+2020,Clearing,252000.0
+2020,Cottage Grove Heights,147500.0
+2020,Cragin,307500.0
+2020,Dearborn Park,389750.0
+2020,Depaul,704500.0
+2020,Douglas,244000.0
+2020,Douglas Park,251000.0
+2020,Downtown Chicago,388750.0
+2020,Dunning,294000.0
+2020,East Beverly,261000.0
+2020,East Chatham,106500.0
+2020,East Garfield Park,236250.0
+2020,East Humboldt Park,418500.0
+2020,East Pilsen,496250.0
+2020,East Ravenswood Historic District,332500.0
+2020,East Rogers Park,192500.0
+2020,East Side,149500.0
+2020,East Ukrainian Village,550000.0
+2020,Edgebrook,487500.0
+2020,Edgewater,267875.0
+2020,Edgewater Beach,190000.0
+2020,Edgewater Glen,344750.0
+2020,Edison Park,331000.0
+2020,Englewood,95500.0
+2020,Englewood Heights,164000.0
+2020,Far North Side,315000.0
+2020,Far Southeast Side,135750.0
+2020,Far Southwest Side,208000.0
+2020,Fernwood,95875.0
+2020,Fifth City,245000.0
+2020,Ford City,88093.75
+2020,Fuller Park,129500.0
+2020,Fulton Market,504875.0
+2020,Fulton River District,383750.0
+2020,Gage Park,210000.0
+2020,Galewood,292850.0
+2020,Garfield Ridge,268000.0
+2020,Gladstone Park,360000.0
+2020,Gold Coast,504500.0
+2020,Goose Island,393750.0
+2020,Graceland West,438250.0
+2020,Grand Boulevard,340250.0
+2020,Grand Crossing,135000.0
+2020,Greater Grand Crossing,107875.0
+2020,Greektown,470750.0
+2020,Hamlin Park,504000.0
+2020,Hanson Park,308500.0
+2020,Heart Of Chicago,365250.0
+2020,Heart Of Italy,260000.0
+2020,Hegewisch,138500.0
+2020,Hermosa,305000.0
+2020,Hollywood Park,347000.0
+2020,Homan Square,184000.0
+2020,Horner Park,503125.0
+2020,Humboldt Park,370000.0
+2020,Hyde Park,235500.0
+2020,Hyde Park Kenwood Historic District,246625.0
+2020,Ickes Praire,365000.0
+2020,Illinois Medical District,705000.0
+2020,Independence Park,447500.0
+2020,Indian Village,181499.75
+2020,Indian Woods,395000.0
+2020,Irving Park,380875.0
+2020,Irving Woods,304000.0
+2020,Jackson Park Highlands,425000.0
+2020,Jefferson Park,324500.0
+2020,Jeffrey Manor,59250.0
+2020,K-Town,172500.0
+2020,Kelvyn Park,366250.0
+2020,Kennedy Park,231625.0
+2020,Kenwood,265500.0
+2020,Kilbourn Park,338000.0
+2020,Kosciuszko Park,425500.0
+2020,Lake Meadows,208750.0
+2020,Lake View,441750.0
+2020,Lake View East,306475.0
+2020,Lathrop,613625.0
+2020,Leclaire Courts,190000.0
+2020,Lincoln Park,576750.0
+2020,Lincoln Square,394500.0
+2020,Lithuanian Downtown,234750.0
+2020,Lithuanian Plaza,205000.0
+2020,Little Cassubia,352750.0
+2020,Little Italy,312875.0
+2020,Little Vietnam,379375.0
+2020,Logan Square,466250.0
+2020,Longwood Manor,172000.0
+2020,Loop,326750.0
+2020,Lower West Side,417750.0
+2020,Loyola,186500.0
+2020,Magnificent Mile,485000.0
+2020,Magnolia Glen,296125.0
+2020,Margate Park,162000.0
+2020,Marquette Park,198250.0
+2020,Marshall Square,199750.0
+2020,Marynook,210000.0
+2020,Mayfair,328950.0
+2020,Mckinley Park,306250.0
+2020,Midway Park,319000.0
+2020,Montclare,290625.0
+2020,Morgan Park,174500.0
+2020,Mount Greenwood,259000.0
+2020,Mount Greenwood Heights,275500.0
+2020,Near East Side,425750.0
+2020,Near North Side,413875.0
+2020,Near South Side,389375.0
+2020,New City,180125.0
+2020,New City / Back Of The Yards,156500.0
+2020,New East Side,378750.0
+2020,New Roseland,119250.0
+2020,Noble Square,557500.0
+2020,North Austin,262750.0
+2020,North Center,531750.0
+2020,North Kenwood,283500.0
+2020,North Lawndale,183500.0
+2020,North Mayfair,380000.0
+2020,North Park,333625.0
+2020,North Shore,484750.0
+2020,North Side,485000.0
+2020,Northwest Side,325000.0
+2020,Nortown,269125.0
+2020,Norwood Park,352625.0
+2020,Norwood Park East,354750.0
+2020,Norwood Park West,364375.0
+2020,Oakland,334500.0
+2020,Old Hegewisch,145750.0
+2020,Old Irving Park,423750.0
+2020,Old Norwood Park,501250.0
+2020,Old Town,466000.0
+2020,Old Town Triangle,476500.0
+2020,Oriole Park,368750.0
+2020,Palmer Square,410000.0
+2020,Park Manor,140500.0
+2020,Park West,414250.0
+2020,Peterson Park,325000.0
+2020,Pill Hill,135250.0
+2020,Pill Hill / Calument Heights,168750.0
+2020,Pilsen Historic District,411250.0
+2020,Portage Park,355000.0
+2020,Prairie District,382000.0
+2020,Princeton Park,86875.0
+2020,Printer'S Row,255000.0
+2020,Pulaski Park,427000.0
+2020,Pullman,136750.0
+2020,Ranch Triangle,672250.0
+2020,Ravenswood,405250.0
+2020,Ravenswood Gardens,347000.0
+2020,Ravenswood Manor,530250.0
+2020,River North,422750.0
+2020,River West,456375.0
+2020,Riverdale,27000.0
+2020,Rogers Park,250750.0
+2020,Rosehill,388500.0
+2020,Roseland,132000.0
+2020,Rosemoor,165750.0
+2020,Schorsch Forest View,330500.0
+2020,Schorsch Village,300000.0
+2020,Scottsdale,213000.0
+2020,Sheffield,711500.0
+2020,Sheridan Park,341000.0
+2020,Sheridan Station Corridor,358750.0
+2020,Slag Valley,122500.0
+2020,Sleepy Hollow,247000.0
+2020,South Austin,215000.0
+2020,South Chicago,132450.0
+2020,South Commons,102500.0
+2020,South Deering,82750.5
+2020,South East Ravenswood,427500.0
+2020,South Edgebrook,420000.0
+2020,South Lawndale,199750.0
+2020,South Lawndale / Little Village,199250.0
+2020,South Loop,351750.0
+2020,South Old Irving Park,444250.0
+2020,South Shore,152250.0
+2020,South Side,230375.0
+2020,Southwest Side,217500.0
+2020,St. Ben'S,644750.0
+2020,Stateway Gardens,177750.0
+2020,Stony Island Park,158250.0
+2020,Streeterville,420750.0
+2020,Tally'S Corner,360000.0
+2020,The Bush,115000.0
+2020,The Chicago University,127500.0
+2020,The Gap,332450.0
+2020,The Island,194625.0
+2020,The Villa,584250.0
+2020,Tri-Taylor,286750.0
+2020,Ukrainian Village,539250.0
+2020,Union Ridge,327000.0
+2020,Uptown,308500.0
+2020,Vittum Park,244875.0
+2020,Waclawowo,416250.0
+2020,Washington Heights,175000.0
+2020,Washington Park,172500.0
+2020,West Beverly,269375.0
+2020,West Chatham,110725.0
+2020,West Chesterfield,145250.0
+2020,West Depaul,731250.0
+2020,West Elsdon,227812.5
+2020,West Englewood,69750.0
+2020,West Garfield Park,188750.0
+2020,West Humboldt Park,246250.0
+2020,West Lake View,525000.0
+2020,West Lawn,227000.0
+2020,West Morgan Park,266875.0
+2020,West Pullman,108750.0
+2020,West Ridge,230000.0
+2020,West Side,394500.0
+2020,West Town,517500.0
+2020,West Walker,424950.0
+2020,West Woodlawn,243625.0
+2020,Wicker Park,547500.0
+2020,Wildwood,405000.0
+2020,Woodlawn,219500.0
+2020,Woodlawn Ridge,246500.0
+2020,Wrightwood,366125.0
+2020,Wrigleyville,483625.0
+2021,Albany Park,307500.0
+2021,Andersonville,487500.0
+2021,Archer Heights,286500.0
+2021,Archer Highlands,329500.0
+2021,Armour Square,322975.0
+2021,Ashburn,248250.0
+2021,Ashburn Estates,266000.0
+2021,Auburn Gresham,206594.75
+2021,Austin,275000.0
+2021,Avalon Park,220000.0
+2021,Avondale,450000.0
+2021,Back Of The Yards,185500.0
+2021,Belmont Cragin,330000.0
+2021,Belmont Heights,323250.0
+2021,Belmont Terrace,328750.0
+2021,Beverly,358125.0
+2021,Beverly View,239950.0
+2021,Beverly Woods,255000.0
+2021,Big Oaks,355000.0
+2021,Bowmanville,502750.0
+2021,Brainerd,217250.0
+2021,Brickyard,262750.0
+2021,Bridgeport,429625.0
+2021,Brighton Park,269000.0
+2021,Bronzeville,261250.0
+2021,Bryn Mawr Highlands,95000.0
+2021,Bryn Mawr Historic District,258875.0
+2021,Brynford Park,605000.0
+2021,Bucktown,570750.0
+2021,Budlong Woods,236000.0
+2021,Buena Park,272125.0
+2021,Burnside,160450.0
+2021,Cabrini-Green,409500.0
+2021,Calumet Heights,189625.0
+2021,Canaryville,331500.0
+2021,Carl Sandburg Village,235125.0
+2021,Centerfield,269000.0
+2021,Central Chicago,402500.0
+2021,Central Station,480000.0
+2021,Chatham,210000.0
+2021,Chicago Lawn,228875.0
+2021,Chinatown,291625.0
+2021,Chrysler Village,192250.0
+2021,Clarendon Park,281250.0
+2021,Clearing,260500.0
+2021,Cottage Grove Heights,166500.0
+2021,Cragin,358250.0
+2021,Dearborn Park,363500.0
+2021,Depaul,816250.0
+2021,Douglas,233500.0
+2021,Douglas Park,273500.0
+2021,Downtown Chicago,402500.0
+2021,Dunning,330000.0
+2021,East Beverly,321125.0
+2021,East Chatham,123000.0
+2021,East Garfield Park,241625.0
+2021,East Humboldt Park,467750.0
+2021,East Pilsen,528000.0
+2021,East Ravenswood Historic District,369375.0
+2021,East Rogers Park,218750.0
+2021,East Side,157500.0
+2021,East Ukrainian Village,575000.0
+2021,Edgebrook,554625.0
+2021,Edgewater,263625.0
+2021,Edgewater Beach,183500.0
+2021,Edgewater Glen,414625.0
+2021,Edison Park,391000.0
+2021,Englewood,126000.0
+2021,Englewood Heights,159500.0
+2021,Far North Side,315000.0
+2021,Far Southeast Side,163975.0
+2021,Far Southwest Side,245000.0
+2021,Fernwood,133500.0
+2021,Fifth City,299000.0
+2021,Ford City,42750.0
+2021,Fuller Park,86500.0
+2021,Fulton Market,430375.0
+2021,Fulton River District,444625.0
+2021,Gage Park,233750.0
+2021,Galewood,304250.0
+2021,Garfield Ridge,300250.0
+2021,Gladstone Park,388500.0
+2021,Gold Coast,435000.0
+2021,Goose Island,422750.0
+2021,Graceland West,418000.0
+2021,Grand Boulevard,270875.0
+2021,Grand Crossing,182500.0
+2021,Greater Grand Crossing,176000.0
+2021,Greektown,363750.0
+2021,Groveland Park,112465.0
+2021,Hamlin Park,546000.0
+2021,Hanson Park,365000.0
+2021,Heart Of Chicago,393250.0
+2021,Heart Of Italy,337000.0
+2021,Hegewisch,202500.0
+2021,Hermosa,366250.0
+2021,Hollywood Park,341000.0
+2021,Homan Square,254625.0
+2021,Horner Park,670500.0
+2021,Humboldt Park,411250.0
+2021,Hyde Park,207625.0
+2021,Hyde Park Kenwood Historic District,268750.0
+2021,Ickes Praire,368000.0
+2021,Illinois Medical District,535000.0
+2021,Independence Park,519000.0
+2021,Indian Village,131125.0
+2021,Indian Woods,376000.0
+2021,Irving Park,400825.0
+2021,Irving Woods,317500.0
+2021,Jackson Park Highlands,565000.0
+2021,Jefferson Park,377000.0
+2021,Jeffrey Manor,96000.0
+2021,K-Town,229000.0
+2021,Kelvyn Park,343750.0
+2021,Kennedy Park,249750.0
+2021,Kenwood,294250.0
+2021,Kilbourn Park,341250.0
+2021,Koreatown,146250.0
+2021,Kosciuszko Park,496500.0
+2021,Lake Meadows,328250.0
+2021,Lake View,432500.0
+2021,Lake View East,283625.0
+2021,Lathrop,599500.0
+2021,Leclaire Courts,256250.0
+2021,Lincoln Park,591500.0
+2021,Lincoln Square,384500.0
+2021,Lithuanian Downtown,273000.0
+2021,Lithuanian Plaza,230000.0
+2021,Little Cassubia,456500.0
+2021,Little Italy,342375.0
+2021,Little Vietnam,399125.0
+2021,Logan Square,477000.0
+2021,Longwood Manor,177225.0
+2021,Loop,370000.0
+2021,Lower West Side,437500.0
+2021,Loyola,210750.0
+2021,Magnificent Mile,591875.0
+2021,Magnolia Glen,273125.0
+2021,Margate Park,146250.0
+2021,Marquette Park,229500.0
+2021,Marshall Square,268750.0
+2021,Mary Crest,280000.0
+2021,Marynook,250000.0
+2021,Mayfair,372000.0
+2021,Mckinley Park,370000.0
+2021,Midway Park,267000.0
+2021,Montclare,310000.0
+2021,Morgan Park,240250.0
+2021,Mount Greenwood,280750.0
+2021,Mount Greenwood Heights,297500.0
+2021,Near East Side,768750.0
+2021,Near North Side,411750.0
+2021,Near South Side,393750.0
+2021,New City,191500.0
+2021,New City / Back Of The Yards,168000.0
+2021,New East Side,630250.0
+2021,New Roseland,166000.0
+2021,Noble Square,536000.0
+2021,North Austin,295750.0
+2021,North Center,610125.0
+2021,North Kenwood,336750.0
+2021,North Lawndale,234000.0
+2021,North Mayfair,442500.0
+2021,North Park,338250.0
+2021,North Shore,499725.0
+2021,North Side,500000.0
+2021,Northwest Side,348500.0
+2021,Nortown,205000.0
+2021,Norwood Park,360000.0
+2021,Norwood Park East,361000.0
+2021,Norwood Park West,357250.0
+2021,Oakland,340000.0
+2021,Old Hegewisch,180375.0
+2021,Old Irving Park,449750.0
+2021,Old Norwood Park,535000.0
+2021,Old Town,456750.0
+2021,Old Town Triangle,487500.0
+2021,Oriole Park,339750.0
+2021,Palmer Square,426000.0
+2021,Park Manor,176375.0
+2021,Park West,375000.0
+2021,Peterson Park,409000.0
+2021,Pill Hill,190250.0
+2021,Pill Hill / Calument Heights,183875.0
+2021,Pilsen Historic District,463875.0
+2021,Portage Park,368000.0
+2021,Prairie District,413125.0
+2021,Princeton Park,151500.0
+2021,Printer'S Row,280125.0
+2021,Pulaski Park,468750.0
+2021,Pullman,142500.0
+2021,Ranch Triangle,665000.0
+2021,Ravenswood,412250.0
+2021,Ravenswood Gardens,408000.0
+2021,Ravenswood Manor,597125.0
+2021,River North,405000.0
+2021,River West,479750.0
+2021,Riverdale,44250.0
+2021,Rogers Park,245000.0
+2021,Rosehill,415000.0
+2021,Roseland,153000.0
+2021,Rosemoor,194350.0
+2021,Schorsch Forest View,193750.0
+2021,Schorsch Village,345000.0
+2021,Scottsdale,249500.0
+2021,Sheffield,785500.0
+2021,Sheridan Park,365000.0
+2021,Sheridan Station Corridor,350250.0
+2021,Slag Valley,172250.0
+2021,Sleepy Hollow,280000.0
+2021,South Austin,264500.0
+2021,South Chicago,139750.0
+2021,South Commons,112750.0
+2021,South Deering,116750.0
+2021,South East Ravenswood,495000.0
+2021,South Edgebrook,480000.0
+2021,South Lawndale,229750.0
+2021,South Lawndale / Little Village,225000.0
+2021,South Loop,355750.0
+2021,South Old Irving Park,432000.0
+2021,South Shore,178000.0
+2021,South Side,260000.0
+2021,Southwest Side,248500.0
+2021,St. Ben'S,712500.0
+2021,Stateway Gardens,223000.0
+2021,Stony Island Park,222500.0
+2021,Streeterville,452250.0
+2021,Tally'S Corner,368000.0
+2021,The Bush,75150.0
+2021,The Chicago University,181250.0
+2021,The Gap,390500.0
+2021,The Island,204000.0
+2021,The Villa,401125.0
+2021,Tri-Taylor,339750.0
+2021,Ukrainian Village,545000.0
+2021,Union Ridge,343750.0
+2021,Uptown,310000.0
+2021,Vittum Park,289750.0
+2021,Waclawowo,458000.0
+2021,Washington Heights,206250.0
+2021,Washington Park,197500.0
+2021,West Beverly,300375.0
+2021,West Chatham,199000.0
+2021,West Chesterfield,212500.0
+2021,West Depaul,658750.0
+2021,West Elsdon,270750.0
+2021,West Englewood,136000.0
+2021,West Garfield Park,230000.0
+2021,West Humboldt Park,305000.0
+2021,West Lake View,514950.0
+2021,West Lawn,254750.0
+2021,West Morgan Park,311250.0
+2021,West Pullman,138500.0
+2021,West Ridge,237250.0
+2021,West Side,408375.0
+2021,West Town,528000.0
+2021,West Walker,439975.0
+2021,West Woodlawn,268750.0
+2021,Wicker Park,566500.0
+2021,Wildwood,548750.0
+2021,Woodlawn,274375.0
+2021,Woodlawn Ridge,302500.0
+2021,Wrightwood,407000.0
+2021,Wrigleyville,482500.0
+2022,Albany Park,358750.0
+2022,Andersonville,499250.0
+2022,Archer Heights,295000.0
+2022,Archer Highlands,317500.0
+2022,Armour Square,358250.0
+2022,Ashburn,253250.0
+2022,Ashburn Estates,302000.0
+2022,Auburn Gresham,205750.0
+2022,Austin,274000.0
+2022,Avalon Park,213500.0
+2022,Avondale,477500.0
+2022,Back Of The Yards,200000.0
+2022,Belmont Cragin,356250.0
+2022,Belmont Heights,326750.0
+2022,Belmont Terrace,317500.0
+2022,Beverly,367500.0
+2022,Beverly View,247500.0
+2022,Beverly Woods,295000.0
+2022,Big Oaks,372125.0
+2022,Bowmanville,510125.0
+2022,Brainerd,183300.0
+2022,Brickyard,271000.0
+2022,Bridgeport,440375.0
+2022,Brighton Park,285000.0
+2022,Bronzeville,307500.0
+2022,Bryn Mawr Highlands,160000.0
+2022,Bryn Mawr Historic District,248500.0
+2022,Brynford Park,505500.0
+2022,Bucktown,603750.0
+2022,Budlong Woods,248500.0
+2022,Buena Park,265500.0
+2022,Burnside,162000.0
+2022,Cabrini-Green,432450.0
+2022,Calumet Heights,220000.0
+2022,Canaryville,317500.0
+2022,Carl Sandburg Village,225000.0
+2022,Centerfield,280750.0
+2022,Central Chicago,404950.0
+2022,Central Station,462000.0
+2022,Chatham,211875.0
+2022,Chicago Lawn,231250.0
+2022,Chinatown,331500.0
+2022,Chrysler Village,207500.0
+2022,Clarendon Park,309950.0
+2022,Clearing,275500.0
+2022,Cottage Grove Heights,170625.0
+2022,Cragin,379250.0
+2022,Dearborn Park,389750.0
+2022,Depaul,801250.0
+2022,Douglas,276000.0
+2022,Douglas Park,287500.0
+2022,Downtown Chicago,403750.0
+2022,Dunning,321250.0
+2022,East Beverly,294250.0
+2022,East Chatham,163500.0
+2022,East Garfield Park,243125.0
+2022,East Humboldt Park,505000.0
+2022,East Pilsen,492500.0
+2022,East Ravenswood Historic District,370000.0
+2022,East Rogers Park,207500.0
+2022,East Side,195500.0
+2022,East Ukrainian Village,610000.0
+2022,Edgebrook,590000.0
+2022,Edgewater,262750.0
+2022,Edgewater Beach,183875.0
+2022,Edgewater Glen,474950.0
+2022,Edison Park,360000.0
+2022,Englewood,118500.0
+2022,Englewood Heights,257750.0
+2022,Far North Side,322500.0
+2022,Far Southeast Side,180000.0
+2022,Far Southwest Side,245000.0
+2022,Fernwood,169750.0
+2022,Fifth City,165000.0
+2022,Ford City,51500.0
+2022,Fuller Park,191250.0
+2022,Fulton Market,467250.0
+2022,Fulton River District,413250.0
+2022,Gage Park,235500.0
+2022,Galewood,330000.0
+2022,Garfield Ridge,306000.0
+2022,Gladstone Park,410000.0
+2022,Gold Coast,460250.0
+2022,Goose Island,481250.0
+2022,Graceland West,457750.0
+2022,Grand Boulevard,333499.5
+2022,Grand Crossing,157500.0
+2022,Greater Grand Crossing,193750.0
+2022,Greektown,415000.0
+2022,Hamlin Park,561625.0
+2022,Hanson Park,307500.0
+2022,Heart Of Chicago,414250.0
+2022,Heart Of Italy,282500.0
+2022,Hegewisch,202500.0
+2022,Hermosa,362250.0
+2022,Hollywood Park,398250.0
+2022,Homan Square,219125.0
+2022,Horner Park,607500.0
+2022,Humboldt Park,429750.0
+2022,Hyde Park,232500.0
+2022,Hyde Park Kenwood Historic District,255500.0
+2022,Ickes Praire,351750.0
+2022,Independence Park,527500.0
+2022,Indian Village,182250.0
+2022,Indian Woods,452500.0
+2022,Irving Park,463000.0
+2022,Irving Woods,345000.0
+2022,Jackson Park Highlands,646250.0
+2022,Jefferson Park,393250.0
+2022,Jeffrey Manor,109000.0
+2022,K-Town,245875.0
+2022,Kelvyn Park,392500.0
+2022,Kennedy Park,243600.0
+2022,Kenwood,260000.0
+2022,Kilbourn Park,337500.0
+2022,Koreatown,210000.0
+2022,Kosciuszko Park,538950.0
+2022,Lake Meadows,308750.0
+2022,Lake View,432750.0
+2022,Lake View East,279975.0
+2022,Lathrop,708125.0
+2022,Leclaire Courts,245500.0
+2022,Lincoln Park,632125.0
+2022,Lincoln Square,409750.0
+2022,Lithuanian Downtown,325000.0
+2022,Lithuanian Plaza,195000.0
+2022,Little Cassubia,525000.0
+2022,Little Italy,330000.0
+2022,Little Vietnam,518725.0
+2022,Logan Square,520000.0
+2022,Longwood Manor,233750.0
+2022,Loop,375000.0
+2022,Lower West Side,415000.0
+2022,Loyola,199625.0
+2022,Magnificent Mile,541250.0
+2022,Magnolia Glen,333500.0
+2022,Margate Park,126375.0
+2022,Marquette Park,246250.0
+2022,Marshall Square,270000.0
+2022,Mary Crest,350000.0
+2022,Marynook,242500.0
+2022,Mayfair,412500.0
+2022,Mckinley Park,336200.0
+2022,Midway Park,278375.0
+2022,Montclare,311875.0
+2022,Morgan Park,215500.0
+2022,Mount Greenwood,282750.0
+2022,Mount Greenwood Heights,349500.0
+2022,Near East Side,648375.0
+2022,Near North Side,421000.0
+2022,Near South Side,381250.0
+2022,New City,200000.0
+2022,New City / Back Of The Yards,189500.0
+2022,New East Side,575000.0
+2022,New Roseland,171000.0
+2022,Noble Square,581250.0
+2022,North Austin,290000.0
+2022,North Center,601750.0
+2022,North Kenwood,331250.0
+2022,North Lawndale,240750.0
+2022,North Mayfair,450000.0
+2022,North Park,385750.0
+2022,North Shore,523000.0
+2022,North Side,531750.0
+2022,Northwest Side,365000.0
+2022,Nortown,245500.0
+2022,Norwood Park,367125.0
+2022,Norwood Park East,377625.0
+2022,Norwood Park West,371250.0
+2022,Oakland,390000.0
+2022,Old Hegewisch,176875.0
+2022,Old Irving Park,501575.0
+2022,Old Norwood Park,498000.0
+2022,Old Town,463000.0
+2022,Old Town Triangle,416250.0
+2022,Oriole Park,363250.0
+2022,Palmer Square,508750.0
+2022,Park Manor,210500.0
+2022,Park West,377500.0
+2022,Peterson Park,404750.0
+2022,Pill Hill,145000.0
+2022,Pill Hill / Calument Heights,214250.0
+2022,Pilsen Historic District,437875.0
+2022,Portage Park,398750.0
+2022,Prairie District,391250.0
+2022,Princeton Park,162500.0
+2022,Printer'S Row,241250.0
+2022,Pulaski Park,430250.0
+2022,Pullman,162000.0
+2022,Ranch Triangle,709500.0
+2022,Ravenswood,414750.0
+2022,Ravenswood Gardens,379950.0
+2022,Ravenswood Manor,745000.0
+2022,River North,426875.0
+2022,River West,502475.0
+2022,Riverdale,67750.0
+2022,Rogers Park,237250.0
+2022,Rosehill,403500.0
+2022,Roseland,175000.0
+2022,Rosemoor,194750.0
+2022,Schorsch Forest View,282125.0
+2022,Schorsch Village,347750.0
+2022,Scottsdale,252875.0
+2022,Sheffield,766250.0
+2022,Sheridan Park,367500.0
+2022,Sheridan Station Corridor,387625.0
+2022,Slag Valley,166000.0
+2022,Sleepy Hollow,284950.0
+2022,South Austin,252250.0
+2022,South Chicago,198750.0
+2022,South Commons,126825.0
+2022,South Deering,120500.0
+2022,South East Ravenswood,433125.0
+2022,South Edgebrook,450000.0
+2022,South Lawndale,260500.0
+2022,South Lawndale / Little Village,254000.0
+2022,South Loop,354500.0
+2022,South Old Irving Park,478350.0
+2022,South Shore,165875.0
+2022,South Side,261875.0
+2022,Southwest Side,250000.0
+2022,St. Ben'S,739000.0
+2022,Stateway Gardens,218750.0
+2022,Stony Island Park,213750.0
+2022,Streeterville,400000.0
+2022,Tally'S Corner,396750.0
+2022,The Bush,133000.0
+2022,The Chicago University,263750.0
+2022,The Gap,380000.0
+2022,The Island,212087.0
+2022,The Villa,562500.0
+2022,Tri-Taylor,302500.0
+2022,Ukrainian Village,564500.0
+2022,Union Ridge,334739.0
+2022,Uptown,311750.0
+2022,Vittum Park,277500.0
+2022,Waclawowo,389125.0
+2022,Washington Heights,207500.0
+2022,Washington Park,182500.0
+2022,West Beverly,278500.0
+2022,West Chatham,205000.0
+2022,West Chesterfield,192975.0
+2022,West Depaul,722500.0
+2022,West Elsdon,278250.0
+2022,West Englewood,142250.0
+2022,West Garfield Park,240000.0
+2022,West Humboldt Park,275000.0
+2022,West Lake View,567500.0
+2022,West Lawn,262500.0
+2022,West Morgan Park,331125.0
+2022,West Pullman,157750.0
+2022,West Ridge,208500.0
+2022,West Side,402500.0
+2022,West Town,552500.0
+2022,West Walker,586250.0
+2022,West Woodlawn,271500.0
+2022,Wicker Park,578750.0
+2022,Wildwood,502500.0
+2022,Woodlawn,278750.0
+2022,Woodlawn Ridge,302500.0
+2022,Wrightwood,442500.0
+2022,Wrigleyville,522500.0
+2023,Albany Park,362750.0
+2023,Andersonville,425000.0
+2023,Archer Heights,281000.0
+2023,Archer Highlands,305000.0
+2023,Armour Square,435000.0
+2023,Ashburn,257700.0
+2023,Ashburn Estates,293000.0
+2023,Auburn Gresham,213750.0
+2023,Austin,274500.0
+2023,Avalon Park,181500.0
+2023,Avondale,466750.0
+2023,Back Of The Yards,226000.0
+2023,Belmont Cragin,373750.0
+2023,Belmont Heights,336500.0
+2023,Belmont Terrace,340000.0
+2023,Beverly,363500.0
+2023,Beverly View,200000.0
+2023,Beverly Woods,280000.0
+2023,Big Oaks,394500.0
+2023,Bowmanville,509000.0
+2023,Brainerd,174500.0
+2023,Brickyard,275000.0
+2023,Bridgeport,455750.0
+2023,Brighton Park,274750.0
+2023,Bronzeville,282625.0
+2023,Bryn Mawr Highlands,74000.0
+2023,Bryn Mawr Historic District,262250.0
+2023,Brynford Park,500000.0
+2023,Bucktown,615250.0
+2023,Budlong Woods,235000.0
+2023,Buena Park,262250.0
+2023,Burnside,115000.0
+2023,Cabrini-Green,658000.0
+2023,Calumet Heights,213750.0
+2023,Canaryville,314625.0
+2023,Carl Sandburg Village,234625.0
+2023,Centerfield,289750.0
+2023,Central Chicago,390000.0
+2023,Central Station,463750.0
+2023,Chatham,188125.0
+2023,Chicago Lawn,243750.0
+2023,Chinatown,295000.0
+2023,Chrysler Village,205750.0
+2023,Clarendon Park,358000.0
+2023,Clearing,288000.0
+2023,Cottage Grove Heights,191000.0
+2023,Cragin,373250.0
+2023,Dearborn Park,332250.0
+2023,Depaul,1028500.0
+2023,Douglas,228750.0
+2023,Douglas Park,515000.0
+2023,Downtown Chicago,390000.0
+2023,Dunning,334250.0
+2023,East Beverly,298750.0
+2023,East Chatham,169000.0
+2023,East Garfield Park,264625.0
+2023,East Humboldt Park,495000.0
+2023,East Pilsen,477500.0
+2023,East Ravenswood Historic District,388500.0
+2023,East Rogers Park,210000.0
+2023,East Side,200125.0
+2023,East Ukrainian Village,647000.0
+2023,Edgebrook,555000.0
+2023,Edgewater,249000.0
+2023,Edgewater Beach,193250.0
+2023,Edgewater Glen,417500.0
+2023,Edison Park,390500.0
+2023,Englewood,141750.0
+2023,Englewood Heights,247000.0
+2023,Far North Side,325500.0
+2023,Far Southeast Side,167750.0
+2023,Far Southwest Side,244000.0
+2023,Fernwood,148000.0
+2023,Fifth City,170975.0
+2023,Ford City,56500.0
+2023,Fuller Park,228500.0
+2023,Fulton Market,460000.0
+2023,Fulton River District,458500.0
+2023,Gage Park,245000.0
+2023,Galewood,326250.0
+2023,Garfield Ridge,303750.0
+2023,Gladstone Park,344750.0
+2023,Gold Coast,427500.0
+2023,Goose Island,456250.0
+2023,Graceland West,447000.0
+2023,Grand Boulevard,341000.0
+2023,Grand Crossing,161250.0
+2023,Greater Grand Crossing,162250.0
+2023,Greektown,429375.0
+2023,Hamlin Park,585000.0
+2023,Hanson Park,345000.0
+2023,Heart Of Chicago,411750.0
+2023,Heart Of Italy,355250.0
+2023,Hegewisch,220000.0
+2023,Hermosa,364000.0
+2023,Hollywood Park,437500.0
+2023,Homan Square,226000.0
+2023,Horner Park,614500.0
+2023,Humboldt Park,419000.0
+2023,Hyde Park,227500.0
+2023,Hyde Park Kenwood Historic District,270000.0
+2023,Ickes Praire,357500.0
+2023,Illinois Medical District,565000.0
+2023,Independence Park,650000.0
+2023,Indian Village,188500.0
+2023,Indian Woods,523750.0
+2023,Irving Park,435000.0
+2023,Irving Woods,309500.0
+2023,Jackson Park Highlands,555000.0
+2023,Jefferson Park,373750.0
+2023,Jeffrey Manor,87250.0
+2023,K-Town,253250.0
+2023,Kelvyn Park,392500.0
+2023,Kennedy Park,259750.0
+2023,Kenwood,273125.0
+2023,Kilbourn Park,383875.0
+2023,Kosciuszko Park,480000.0
+2023,Lake Meadows,192000.0
+2023,Lake View,446500.0
+2023,Lake View East,300000.0
+2023,Lathrop,767750.0
+2023,Leclaire Courts,267950.0
+2023,Lincoln Park,647500.0
+2023,Lincoln Square,451875.0
+2023,Lithuanian Downtown,298875.0
+2023,Lithuanian Plaza,227500.0
+2023,Little Cassubia,490875.0
+2023,Little Italy,355000.0
+2023,Little Vietnam,483625.0
+2023,Logan Square,525250.0
+2023,Longwood Manor,189750.0
+2023,Loop,370000.0
+2023,Lower West Side,431250.0
+2023,Loyola,199500.0
+2023,Magnificent Mile,547500.0
+2023,Magnolia Glen,275250.0
+2023,Margate Park,150000.0
+2023,Marquette Park,250000.0
+2023,Marshall Square,340000.0
+2023,Mary Crest,262250.0
+2023,Marynook,206250.0
+2023,Mayfair,420000.0
+2023,Mckinley Park,317500.0
+2023,Midway Airport,375000.0
+2023,Midway Park,321250.0
+2023,Montclare,344750.0
+2023,Morgan Park,226000.0
+2023,Mount Greenwood,298500.0
+2023,Mount Greenwood Heights,325000.0
+2023,Near East Side,531875.0
+2023,Near North Side,390000.0
+2023,Near South Side,390000.0
+2023,New City,226000.0
+2023,New City / Back Of The Yards,213200.0
+2023,New East Side,489500.0
+2023,New Roseland,132125.0
+2023,Noble Square,592500.0
+2023,North Austin,315000.0
+2023,North Center,618750.0
+2023,North Kenwood,381000.0
+2023,North Lawndale,241250.0
+2023,North Mayfair,397000.0
+2023,North Park,386000.0
+2023,North Shore,547500.0
+2023,North Side,552500.0
+2023,Northwest Side,365000.0
+2023,Nortown,220000.0
+2023,Norwood Park,383500.0
+2023,Norwood Park East,402500.0
+2023,Norwood Park West,374500.0
+2023,Oakland,332975.0
+2023,Old Hegewisch,178250.0
+2023,Old Irving Park,468250.0
+2023,Old Norwood Park,481250.0
+2023,Old Town,447500.0
+2023,Old Town Triangle,394000.0
+2023,Oriole Park,341525.0
+2023,Palmer Square,571250.0
+2023,Park Manor,205500.0
+2023,Park West,366250.0
+2023,Peterson Park,415875.0
+2023,Pill Hill,230500.0
+2023,Pill Hill / Calument Heights,213750.0
+2023,Pilsen Historic District,449500.0
+2023,Portage Park,384625.0
+2023,Prairie District,374875.0
+2023,Princeton Park,150000.0
+2023,Printer'S Row,244000.0
+2023,Pulaski Park,496375.0
+2023,Pullman,153500.0
+2023,Ranch Triangle,751500.0
+2023,Ravenswood,493500.0
+2023,Ravenswood Gardens,357500.0
+2023,Ravenswood Manor,715000.0
+2023,River North,402750.0
+2023,River West,525125.0
+2023,Riverdale,72875.0
+2023,Rogers Park,257375.0
+2023,Rosehill,443250.0
+2023,Roseland,149000.0
+2023,Rosemoor,166475.0
+2023,Schorsch Forest View,224000.0
+2023,Schorsch Village,363125.0
+2023,Scottsdale,253250.0
+2023,Sheffield,962975.0
+2023,Sheridan Park,421250.0
+2023,Sheridan Station Corridor,363000.0
+2023,Slag Valley,171500.0
+2023,Sleepy Hollow,266500.0
+2023,South Austin,248500.0
+2023,South Chicago,195000.0
+2023,South Commons,120000.0
+2023,South Deering,106250.0
+2023,South East Ravenswood,601225.0
+2023,South Edgebrook,517500.0
+2023,South Lawndale,261500.0
+2023,South Lawndale / Little Village,264750.0
+2023,South Loop,342500.0
+2023,South Old Irving Park,431375.0
+2023,South Shore,125000.0
+2023,South Side,245000.0
+2023,Southwest Side,258375.0
+2023,St. Ben'S,817500.0
+2023,Stateway Gardens,402475.0
+2023,Stony Island Park,167873.0
+2023,Streeterville,424500.0
+2023,Tally'S Corner,392500.0
+2023,The Bush,207000.0
+2023,The Chicago University,223700.5
+2023,The Gap,269750.0
+2023,The Island,217500.0
+2023,The Villa,666000.0
+2023,Tri-Taylor,356200.0
+2023,Ukrainian Village,551250.0
+2023,Union Ridge,336625.0
+2023,Uptown,331375.0
+2023,Vittum Park,295500.0
+2023,Waclawowo,425000.0
+2023,Washington Heights,185500.0
+2023,Washington Park,217450.0
+2023,West Beverly,311250.0
+2023,West Chatham,188779.0
+2023,West Chesterfield,140625.0
+2023,West Depaul,768750.0
+2023,West Elsdon,255000.0
+2023,West Englewood,160000.0
+2023,West Garfield Park,173500.0
+2023,West Humboldt Park,303000.0
+2023,West Lake View,591250.0
+2023,West Lawn,265000.0
+2023,West Morgan Park,298500.0
+2023,West Pullman,142500.0
+2023,West Ridge,229625.0
+2023,West Side,405000.0
+2023,West Town,582125.0
+2023,West Walker,423000.0
+2023,West Woodlawn,305000.0
+2023,Wicker Park,637500.0
+2023,Wildwood,595000.0
+2023,Woodlawn,283875.0
+2023,Woodlawn Ridge,271500.0
+2023,Wrightwood,435000.0
+2023,Wrigleyville,573750.0
+2024,Albany Park,408875.0
+2024,Andersonville,625000.0
+2024,Archer Heights,306375.0
+2024,Archer Highlands,278750.0
+2024,Armour Square,357975.0
+2024,Ashburn,273750.0
+2024,Ashburn Estates,305000.0
+2024,Auburn Gresham,198500.0
+2024,Austin,296500.0
+2024,Avalon Park,215000.0
+2024,Avondale,537500.0
+2024,Back Of The Yards,256500.0
+2024,Belmont Cragin,437625.0
+2024,Belmont Heights,334500.0
+2024,Belmont Terrace,383000.0
+2024,Beverly,377000.0
+2024,Beverly View,289500.0
+2024,Beverly Woods,350000.0
+2024,Big Oaks,403125.0
+2024,Bowmanville,685450.0
+2024,Brainerd,244500.0
+2024,Brickyard,326500.0
+2024,Bridgeport,494500.0
+2024,Brighton Park,290000.0
+2024,Bronzeville,268750.0
+2024,Bryn Mawr Highlands,257500.0
+2024,Bryn Mawr Historic District,229375.0
+2024,Brynford Park,456600.0
+2024,Bucktown,747250.0
+2024,Budlong Woods,234725.0
+2024,Buena Park,262500.0
+2024,Burnside,169750.0
+2024,Cabrini-Green,400500.0
+2024,Calumet Heights,243750.0
+2024,Canaryville,326000.0
+2024,Carl Sandburg Village,257250.0
+2024,Centerfield,305000.0
+2024,Central Chicago,400875.0
+2024,Central Station,465000.0
+2024,Chatham,209500.0
+2024,Chicago Lawn,256375.0
+2024,Chinatown,296250.0
+2024,Chrysler Village,236500.0
+2024,Clarendon Park,317083.25
+2024,Clearing,282500.0
+2024,Cottage Grove Heights,210000.0
+2024,Cragin,385500.0
+2024,Dearborn Park,411500.0
+2024,Depaul,1078750.0
+2024,Douglas,218500.0
+2024,Douglas Park,573100.0
+2024,Downtown Chicago,405000.0
+2024,Dunning,337000.0
+2024,East Beverly,265000.0
+2024,East Chatham,159500.0
+2024,East Garfield Park,254250.0
+2024,East Humboldt Park,561249.5
+2024,East Pilsen,469750.0
+2024,East Ravenswood Historic District,415500.0
+2024,East Rogers Park,240000.0
+2024,East Side,214500.0
+2024,East Ukrainian Village,650000.0
+2024,Edgebrook,590500.0
+2024,Edgewater,292500.0
+2024,Edgewater Beach,204000.0
+2024,Edgewater Glen,442250.0
+2024,Edison Park,443750.0
+2024,Englewood,178750.0
+2024,Englewood Heights,210000.0
+2024,Far North Side,360375.0
+2024,Far Southeast Side,194000.0
+2024,Far Southwest Side,262500.0
+2024,Fernwood,161125.0
+2024,Fifth City,305000.0
+2024,Ford City,105750.0
+2024,Fuller Park,245750.0
+2024,Fulton Market,481250.0
+2024,Fulton River District,444375.0
+2024,Gage Park,268125.0
+2024,Galewood,360000.0
+2024,Garfield Ridge,337000.0
+2024,Gladstone Park,468750.0
+2024,Gold Coast,480250.0
+2024,Goose Island,380250.0
+2024,Graceland West,571125.0
+2024,Grand Boulevard,317475.0
+2024,Grand Crossing,159750.0
+2024,Greater Grand Crossing,190000.0
+2024,Greektown,402500.0
+2024,Groveland Park,127000.0
+2024,Hamlin Park,625000.0
+2024,Hanson Park,342500.0
+2024,Heart Of Chicago,417750.0
+2024,Heart Of Italy,321792.0
+2024,Hegewisch,229500.0
+2024,Hermosa,403750.0
+2024,Hollywood Park,447000.0
+2024,Homan Square,263125.0
+2024,Horner Park,642500.0
+2024,Humboldt Park,452000.0
+2024,Hyde Park,221250.0
+2024,Hyde Park Kenwood Historic District,246250.0
+2024,Ickes Praire,360000.0
+2024,Illinois Medical District,660750.0
+2024,Independence Park,679750.0
+2024,Indian Village,166250.0
+2024,Indian Woods,595000.0
+2024,Irving Park,515000.0
+2024,Irving Woods,327500.0
+2024,Jackson Park Highlands,564375.0
+2024,Jefferson Park,450000.0
+2024,Jeffrey Manor,103125.0
+2024,K-Town,280000.0
+2024,Kelvyn Park,382500.0
+2024,Kennedy Park,248500.0
+2024,Kenwood,307250.0
+2024,Kilbourn Park,400000.0
+2024,Koreatown,150000.0
+2024,Kosciuszko Park,478750.0
+2024,Lake Meadows,301500.0
+2024,Lake View,474500.0
+2024,Lake View East,315750.0
+2024,Lathrop,780000.0
+2024,Leclaire Courts,281250.0
+2024,Lincoln Park,683250.0
+2024,Lincoln Square,528675.0
+2024,Lithuanian Downtown,239875.0
+2024,Lithuanian Plaza,240000.0
+2024,Little Cassubia,427500.0
+2024,Little Italy,378125.0
+2024,Little Vietnam,586500.0
+2024,Logan Square,551250.0
+2024,Longwood Manor,173250.0
+2024,Loop,395000.0
+2024,Lower West Side,446250.0
+2024,Loyola,231500.0
+2024,Magnificent Mile,527500.0
+2024,Magnolia Glen,461225.0
+2024,Margate Park,159250.0
+2024,Marquette Park,256625.0
+2024,Marshall Square,275000.0
+2024,Mary Crest,375000.0
+2024,Marynook,193250.0
+2024,Mayfair,460000.0
+2024,Mckinley Park,369250.0
+2024,Midway Park,255000.0
+2024,Montclare,330625.0
+2024,Morgan Park,240000.0
+2024,Mount Greenwood,334125.0
+2024,Mount Greenwood Heights,328500.0
+2024,Near East Side,569750.0
+2024,Near North Side,410000.0
+2024,Near South Side,394750.0
+2024,New City,253000.0
+2024,New City / Back Of The Yards,243000.0
+2024,New East Side,541500.0
+2024,New Roseland,173375.0
+2024,Noble Square,677500.0
+2024,North Austin,320000.0
+2024,North Center,670750.0
+2024,North Kenwood,320000.0
+2024,North Lawndale,278500.0
+2024,North Mayfair,520000.0
+2024,North Park,442000.0
+2024,North Shore,620000.0
+2024,North Side,580000.0
+2024,Northwest Side,387875.0
+2024,Nortown,221250.0
+2024,Norwood Park,395000.0
+2024,Norwood Park East,373000.0
+2024,Norwood Park West,390000.0
+2024,Oakland,362250.0
+2024,Old Hegewisch,207250.0
+2024,Old Irving Park,454500.0
+2024,Old Norwood Park,441375.0
+2024,Old Town,455500.0
+2024,Old Town Triangle,393250.0
+2024,Oriole Park,360000.0
+2024,Palmer Square,524500.0
+2024,Park Manor,197500.0
+2024,Park West,397500.0
+2024,Peterson Park,488000.0
+2024,Pill Hill,221575.0
+2024,Pill Hill / Calument Heights,243750.0
+2024,Pilsen Historic District,491875.0
+2024,Portage Park,421250.0
+2024,Prairie District,438975.0
+2024,Princeton Park,150000.0
+2024,Printer'S Row,269000.0
+2024,Pulaski Park,523750.0
+2024,Pullman,210000.0
+2024,Ranch Triangle,907500.0
+2024,Ravenswood,540750.0
+2024,Ravenswood Gardens,856750.0
+2024,Ravenswood Manor,676250.0
+2024,River North,410000.0
+2024,River West,481000.0
+2024,Riverdale,79500.0
+2024,Rogers Park,326375.0
+2024,Rosehill,448500.0
+2024,Roseland,169999.0
+2024,Rosemoor,220000.0
+2024,Schorsch Forest View,364000.0
+2024,Schorsch Village,368500.0
+2024,Scottsdale,268500.0
+2024,Sheffield,971250.0
+2024,Sheridan Park,476125.0
+2024,Sheridan Station Corridor,424500.0
+2024,Slag Valley,186250.0
+2024,Sleepy Hollow,325000.0
+2024,South Austin,273500.0
+2024,South Chicago,165000.0
+2024,South Commons,136000.0
+2024,South Deering,128000.0
+2024,South East Ravenswood,765000.0
+2024,South Edgebrook,547875.0
+2024,South Lawndale,267125.0
+2024,South Lawndale / Little Village,276750.0
+2024,South Loop,363750.0
+2024,South Old Irving Park,549975.0
+2024,South Shore,147437.5
+2024,South Side,261000.0
+2024,Southwest Side,267500.0
+2024,St. Ben'S,807500.0
+2024,Stateway Gardens,220000.0
+2024,Stony Island Park,207500.0
+2024,Streeterville,393000.0
+2024,Tally'S Corner,375000.0
+2024,The Bush,97500.0
+2024,The Chicago University,275000.0
+2024,The Gap,397600.0
+2024,The Island,216000.0
+2024,The Villa,744500.0
+2024,Tri-Taylor,286750.0
+2024,Ukrainian Village,623750.0
+2024,Union Ridge,408500.0
+2024,Uptown,365000.0
+2024,Vittum Park,302000.0
+2024,Waclawowo,505500.0
+2024,Washington Heights,212000.0
+2024,Washington Park,209000.0
+2024,West Beverly,321500.0
+2024,West Chatham,190000.0
+2024,West Chesterfield,185000.0
+2024,West Depaul,1020000.0
+2024,West Elsdon,291000.0
+2024,West Englewood,195000.0
+2024,West Garfield Park,240500.0
+2024,West Humboldt Park,294500.0
+2024,West Lake View,584500.0
+2024,West Lawn,298125.0
+2024,West Morgan Park,307000.0
+2024,West Pullman,166000.0
+2024,West Ridge,283250.0
+2024,West Side,430250.0
+2024,West Town,625750.0
+2024,West Walker,527250.0
+2024,West Woodlawn,407650.0
+2024,Wicker Park,642250.0
+2024,Wildwood,604000.0
+2024,Woodlawn,279725.0
+2024,Woodlawn Ridge,240500.0
+2024,Wrightwood,460625.0
+2024,Wrigleyville,608000.0
