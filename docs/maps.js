@@ -20,7 +20,7 @@ L.tileLayer(osmbURL, {
 const geojsonFile = "./community_areas.geojson";
 
 // Set the bin
-const getColorPopulation = value => value > 50000 ? "#b30000" :
+const getColorPopulation = value => value > 60000 ? "#b30000" :
 value > 30000 ? "#e34a33" : value > 20000 ? "#fc8d59" :
 value > 10000 ? "#fdcc8a" : "#fef0d9";
 
@@ -30,8 +30,8 @@ value > 350000 ? "#e34a33" : value > 250000 ? "#fc8d59" :
 value > 150000 ? "#fdcc8a" : "#fef0d9";
 
 const getColorPercentile = value => value == null ? "#888888" :
-value > 90 ? "#b30000" :
-value > 80 ? "#e34a33" : value > 70 ? "#fc8d59" :
+value > 85 ? "#b30000" :
+value > 75 ? "#e34a33" : value > 65 ? "#fc8d59" :
 value > 60 ? "#fdcc8a" : "#fef0d9";
 
 
@@ -111,13 +111,13 @@ document.getElementById("map-selector-1").addEventListener("change", e => {
   const selected = e.target.value;
   if (selected === "population") {
     addChoropleth(map1, layerGroup1, "population", getColorPopulation);
-    createLegend(map1, getColorPopulation, [0, 10000, 20000, 30000, 50000]);
+    createLegend(map1, getColorPopulation, [0, 10000, 20000, 30000, 60000]);
   } else if (selected === "housing") {
     addChoropleth(map1, layerGroup1, "median_sale_price", getColorHousing);
     createLegend(map1, getColorHousing, [0, 150000, 250000, 350000, 500000]);
   } else if (selected === "percentile") {
     addChoropleth(map1, layerGroup1, "percentile", getColorPercentile);
-    createLegend(map1, getColorPercentile, [0, 60, 70, 80, 90]);
+    createLegend(map1, getColorPercentile, [0, 60, 65, 75, 85]);
   }
 });
 
@@ -125,13 +125,13 @@ document.getElementById("map-selector-2").addEventListener("change", e => {
   const selected = e.target.value;
   if (selected === "population") {
     addChoropleth(map2, layerGroup2, "population", getColorPopulation);
-    createLegend(map2, getColorPopulation, [0, 10000, 20000, 30000, 50000]);
+    createLegend(map2, getColorPopulation, [0, 10000, 20000, 30000, 60000]);
   } else if (selected === "housing") {
     addChoropleth(map2, layerGroup2, "median_sale_price", getColorHousing);
     createLegend(map2, getColorHousing, [0, 150000, 250000, 350000, 500000]);
   } else if (selected === "percentile") {
     addChoropleth(map2, layerGroup2, "percentile", getColorPercentile);
-    createLegend(map2, getColorPercentile, [0, 60, 70, 80, 90]);
+    createLegend(map2, getColorPercentile, [0, 60, 65, 75, 85]);
   }
 });
 
@@ -159,6 +159,6 @@ function loadGraphs(areaName) {
 
 // Initialize with the default map
 addChoropleth(map1, layerGroup1, "population", getColorPopulation);
-createLegend(map1, getColorPopulation, [0, 10000, 20000, 30000, 50000]);
+createLegend(map1, getColorPopulation, [0, 10000, 20000, 30000, 60000]);
 addChoropleth(map2, layerGroup2, "population", getColorPopulation);
-createLegend(map2, getColorPopulation, [0, 10000, 20000, 30000, 50000]);
+createLegend(map2, getColorPopulation, [0, 10000, 20000, 30000, 60000]);
