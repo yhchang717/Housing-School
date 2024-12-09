@@ -24,12 +24,12 @@ const getColorPopulation = value => value > 50000 ? "#b30000" :
 value > 30000 ? "#e34a33" : value > 20000 ? "#fc8d59" :
 value > 10000 ? "#fdcc8a" : "#fef0d9";
 
-const getColorHousing = value => value == null ? "#d3d3d3" : 
+const getColorHousing = value => value == null ? "#888888" : 
 value > 500000 ? "#b30000" :
 value > 350000 ? "#e34a33" : value > 250000 ? "#fc8d59" :
 value > 150000 ? "#fdcc8a" : "#fef0d9";
 
-const getColorPercentile = value => value == null ? "#d3d3d3" :
+const getColorPercentile = value => value == null ? "#888888" :
 value > 90 ? "#b30000" :
 value > 80 ? "#e34a33" : value > 70 ? "#fc8d59" :
 value > 60 ? "#fdcc8a" : "#fef0d9";
