@@ -61,13 +61,38 @@
         
         <div id="charts-container" class="box">
             <h2 class="title is-4">Area Details</h2>
-            <div id="pie-chart"></div>
+            <div class=charts-wrapper>
+              <div class="side-by-side">
+                <div id="pie-chart"></div>
+              </div>
+              <div class="side-by-side">
+                <div id="line-chart"></div>
+              </div>
+            </div>
         </div>
+        <footer class="footer">
+          <div class="content">
+            <p>
+              Data Source:
+            </p>
+            <p>
+              1.<a href="https://www.cps.edu/about/district-data/">
+                Chicago Public School(CPS) Assessment Reports</a>.
+              2.<a href="https://www.redfin.com/">Redfin</a>.
+              3.<a href="https://cmap.illinois.gov/data/community-data-snapshots/">
+                Chicago Metropolitan Agency for Planning’s (CMAP) Community Data Snapshots</a>.
+              4.<a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/CommAreas/igwz-8jzy/about_data"> 
+                Chicago Data Portal-CommAreas
+              </a>.
+            </p>
+          </div>
+        </footer>
       </div>
       </section>
       <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
       <script src="https://d3js.org/d3.v7.min.js"></script>
       <script src="piechart.js"></script>
+      <script src="linechart.js"></script>
       <script src="maps.js"></script>
   </body>
 </html>

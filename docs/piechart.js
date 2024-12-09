@@ -16,8 +16,6 @@ function renderPieChart(areaName) {
       { label: "Asian", value: +areaData.Asian },
       { label: "Other", value: +areaData.Other }
     ];
-    console.log(races);
-
     // Set dimensions and radius
     const width = 300;
     const height = 300;
@@ -41,9 +39,9 @@ function renderPieChart(areaName) {
 
     // Create the color scale
     const color = d3.scaleOrdinal()
-    .domain(["White", "Black", "Asian", "Hispanic or Latino", "Other"])
-    .range(["#93a1a1", "#656565", "#d0a585", "#a58fa5", "#f7e09c"]);
-
+    .domain(["White", "Hispanic or Latino", "Black", "Asian", "Other"])
+    .range(["#93a1a1", "#a58fa5", "#656565", "#d0a585",  "#f7e09c"]);
+    
     // Bind data and create the pie chart
     svg
       .selectAll("path")
@@ -84,4 +82,4 @@ function renderPieChart(areaName) {
       .style("font-family", "Arial")
       .style("alignment-baseline", "middle");
   });
-}
+};
