@@ -37,7 +37,7 @@ function renderLineChart(areaName) {
       // console.log("X scale domain:", x.domain());
   
       const y = d3.scaleLinear()
-        .domain([0, d3.max(data, d => d.median_sale_price)]) // Every area use the same scale
+        .domain([0, 800000]) // Every area use the same scale
         .nice()
         .range([height, 0]);
       // console.log("Y scale domain:", y.domain());
