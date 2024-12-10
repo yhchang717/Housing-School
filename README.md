@@ -8,7 +8,6 @@ Yi-Huai Chang
 ## Description: 
 The relationship between housing prices and public school quality is a key factor for families, investors, and urban planners. In Chicago, where neighborhoods vary significantly in terms of socioeconomic factors, understanding this relationship within Chicago Community areas offers valuable insights. This project will use an interactive map to visualize school districts’ housing prices, along with demographic data, school performance, and other relevant factors. The map will enable users to click on specific districts to explore deeper insights, including detailed demographic profiles and housing price trends.
 
-## Snapshot
 ## [Snapshot](https://github.com/yhchang717/Housing-School/blob/main/docs/interactive_final.png)
 
 ## Data Source:
