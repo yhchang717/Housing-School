@@ -1,9 +1,9 @@
 // Function to render the pie chart
 function renderPieChart(areaName) {
   // Load the data from the CSV file
-  d3.csv("./population_lower.csv").then(data => {
+  d3.csv("./population_lower.csv").then((data) => {
     // Filter the data for the selected area
-    const areaData = data.find(d => d.name === areaName);
+    const areaData = data.find((d) => d.name === areaName);
     if (!areaData) {
       console.error(`No data found for area: ${areaName}`);
       return;
@@ -14,7 +14,7 @@ function renderPieChart(areaName) {
       { label: "Hispanic or Latino", value: +areaData["Hispanic or Latino"] },
       { label: "Black", value: +areaData.Black },
       { label: "Asian", value: +areaData.Asian },
-      { label: "Other", value: +areaData.Other }
+      { label: "Other", value: +areaData.Other },
     ];
     // Set dimensions and radius
     const width = 300;
@@ -34,14 +34,15 @@ function renderPieChart(areaName) {
       .attr("transform", `translate(${width / 2},${height / 2})`);
 
     // Create the pie and arc generators
-    const pie = d3.pie().value(d => d.value);
+    const pie = d3.pie().value((d) => d.value);
     const arc = d3.arc().innerRadius(0).outerRadius(radius);
 
     // Create the color scale
-    const color = d3.scaleOrdinal()
-    .domain(["White", "Hispanic or Latino", "Black", "Asian", "Other"])
-    .range(["#93a1a1", "#a58fa5", "#656565", "#d0a585",  "#f7e09c"]);
-    
+    const color = d3
+      .scaleOrdinal()
+      .domain(["White", "Hispanic or Latino", "Black", "Asian", "Other"])
+      .range(["#93a1a1", "#a58fa5", "#656565", "#d0a585", "#f7e09c"]);
+
     // Bind data and create the pie chart
     svg
       .selectAll("path")
@@ -68,7 +69,7 @@ function renderPieChart(areaName) {
       .attr("y", (d, i) => i * 20) // Position each legend item vertically
       .attr("width", 12)
       .attr("height", 12)
-      .attr("fill", d => color(d.label));
+      .attr("fill", (d) => color(d.label));
 
     legend
       .selectAll("text")
@@ -77,9 +78,9 @@ function renderPieChart(areaName) {
       .append("text")
       .attr("x", 20) // Position text to the right of the legend box
       .attr("y", (d, i) => i * 20 + 10) // Align vertically with the box
-      .text(d => d.label)
+      .text((d) => d.label)
       .style("font-size", "12px")
       .style("font-family", "Arial")
       .style("alignment-baseline", "middle");
   });
-};
+}
