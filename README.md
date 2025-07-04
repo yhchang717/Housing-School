@@ -1,4 +1,4 @@
-## School Quality vs. Home Prices: Mapping Chicago's Neighborhoods 
+## [School Quality vs. Home Prices: Mapping Chicago's Neighborhoods](https://yhchang717.github.io/Housing-School/) 
 
 
 ## Name: 
